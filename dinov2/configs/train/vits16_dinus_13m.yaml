@@ -1,0 +1,13 @@
+train:
+  dataset_path: FUS13M:split=TRAIN
+  batch_size_per_gpu: 128
+  OFFICIAL_EPOCH_LENGTH: 20000 # scale this by dividing with the number of GPUs
+
+student:
+  arch: vit_small
+  block_chunks: 0
+  in_chans: 1
+  num_register_tokens: 4
+
+evaluation:
+  eval_period_iterations: 50000

@@ -1,0 +1,74 @@
+[build-system]
+requires = ["setuptools>=42", "wheel", "setuptools_scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ultra_dino"
+version = "0.0.1"
+description = "PyTorch code for UltraDINO, from the paper 'General methods make great domain-specific foundation models', MICCAI 2025."
+readme = "README.md"
+license = {text = "Apache License, Version 2.0"}
+authors = [
+  {name = "Jakob Ambsdorf"},
+  {name = "Asbjørn Munk"},
+]
+requires-python = ">=3.11.0"
+
+dependencies = [
+  "torch==2.1.2",
+  "numpy==1.26.4",
+  "torchvision",
+  "torchmetrics",
+  "fvcore",
+  "iopath",
+  "xformers",
+  "black",
+  "flake8",
+  "mmsegmentation==1.2.2",
+  "mmcv==2.1.0",
+  "opencv-python",
+  "mmengine",
+  "omegaconf",
+  "matplotlib",
+  "pandas",
+  "tensorboard",
+  "lightning",
+  "hydra-core",
+  "timm",
+  "albumentations==1.3.1",
+  "python-dotenv",
+  "regex",
+  "ftfy",
+  "psutil",
+  "mlflow"
+]
+
+[project.optional-dependencies]
+dev = ["black", "flake8"]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["dinov2*", "segmentation*", "classification*"]
+
+[tool.black]
+line-length = 120
+
+[tool.pylint.master]
+persistent = false
+score = false
+
+[tool.pylint.messages_control]
+disable = "all"
+enable = [
+  "miscellaneous",
+  "similarities",
+]
+
+[tool.pylint.similarities]
+ignore-comments = true
+ignore-docstrings = true
+ignore-imports = true
+min-similarity-lines = 8
+
+[tool.pylint.reports]
+reports = false

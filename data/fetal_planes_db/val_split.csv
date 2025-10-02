@@ -1,0 +1,1326 @@
+Image_name,Patient_num,Plane,Brain_plane,Operator,US_Machine,Train,label
+Patient00008_Plane1_1_of_31,8,Other,Not A Brain,Other,Aloka,1,0
+Patient00008_Plane1_2_of_31,8,Other,Not A Brain,Other,Aloka,1,0
+Patient00008_Plane1_3_of_31,8,Other,Not A Brain,Other,Aloka,1,0
+Patient00008_Plane1_4_of_31,8,Other,Not A Brain,Other,Aloka,1,0
+Patient00008_Plane1_5_of_31,8,Other,Not A Brain,Other,Aloka,1,0
+Patient00008_Plane1_6_of_31,8,Other,Not A Brain,Other,Aloka,1,0
+Patient00008_Plane1_7_of_31,8,Other,Not A Brain,Other,Aloka,1,0
+Patient00008_Plane1_8_of_31,8,Other,Not A Brain,Other,Aloka,1,0
+Patient00008_Plane1_9_of_31,8,Other,Not A Brain,Other,Aloka,1,0
+Patient00008_Plane1_10_of_31,8,Other,Not A Brain,Other,Aloka,1,0
+Patient00008_Plane1_11_of_31,8,Other,Not A Brain,Other,Aloka,1,0
+Patient00008_Plane1_12_of_31,8,Other,Not A Brain,Other,Aloka,1,0
+Patient00008_Plane1_13_of_31,8,Other,Not A Brain,Other,Aloka,1,0
+Patient00008_Plane1_14_of_31,8,Other,Not A Brain,Other,Aloka,1,0
+Patient00008_Plane1_15_of_31,8,Other,Not A Brain,Other,Aloka,1,0
+Patient00008_Plane1_16_of_31,8,Other,Not A Brain,Other,Aloka,1,0
+Patient00008_Plane1_17_of_31,8,Other,Not A Brain,Other,Aloka,1,0
+Patient00008_Plane1_18_of_31,8,Other,Not A Brain,Other,Aloka,1,0
+Patient00008_Plane1_19_of_31,8,Other,Not A Brain,Other,Aloka,1,0
+Patient00008_Plane1_20_of_31,8,Other,Not A Brain,Other,Aloka,1,0
+Patient00008_Plane1_21_of_31,8,Other,Not A Brain,Other,Aloka,1,0
+Patient00008_Plane1_22_of_31,8,Other,Not A Brain,Other,Aloka,1,0
+Patient00008_Plane1_23_of_31,8,Other,Not A Brain,Other,Aloka,1,0
+Patient00008_Plane1_24_of_31,8,Other,Not A Brain,Other,Aloka,1,0
+Patient00008_Plane1_25_of_31,8,Other,Not A Brain,Other,Aloka,1,0
+Patient00008_Plane1_26_of_31,8,Other,Not A Brain,Other,Aloka,1,0
+Patient00008_Plane1_27_of_31,8,Other,Not A Brain,Other,Aloka,1,0
+Patient00008_Plane1_28_of_31,8,Other,Not A Brain,Other,Aloka,1,0
+Patient00008_Plane1_29_of_31,8,Other,Not A Brain,Other,Aloka,1,0
+Patient00008_Plane1_30_of_31,8,Other,Not A Brain,Other,Aloka,1,0
+Patient00008_Plane1_31_of_31,8,Other,Not A Brain,Other,Aloka,1,0
+Patient00015_Plane1_1_of_18,15,Other,Not A Brain,Other,Aloka,1,0
+Patient00015_Plane1_2_of_18,15,Other,Not A Brain,Other,Aloka,1,0
+Patient00015_Plane1_3_of_18,15,Other,Not A Brain,Other,Aloka,1,0
+Patient00015_Plane1_4_of_18,15,Other,Not A Brain,Other,Aloka,1,0
+Patient00015_Plane1_5_of_18,15,Other,Not A Brain,Other,Aloka,1,0
+Patient00015_Plane1_6_of_18,15,Other,Not A Brain,Other,Aloka,1,0
+Patient00015_Plane1_7_of_18,15,Other,Not A Brain,Other,Aloka,1,0
+Patient00015_Plane1_8_of_18,15,Other,Not A Brain,Other,Aloka,1,0
+Patient00015_Plane1_9_of_18,15,Other,Not A Brain,Other,Aloka,1,0
+Patient00015_Plane1_10_of_18,15,Other,Not A Brain,Other,Aloka,1,0
+Patient00015_Plane1_11_of_18,15,Other,Not A Brain,Other,Aloka,1,0
+Patient00015_Plane1_12_of_18,15,Other,Not A Brain,Other,Aloka,1,0
+Patient00015_Plane1_13_of_18,15,Other,Not A Brain,Other,Aloka,1,0
+Patient00015_Plane1_14_of_18,15,Other,Not A Brain,Other,Aloka,1,0
+Patient00015_Plane1_15_of_18,15,Other,Not A Brain,Other,Aloka,1,0
+Patient00015_Plane1_16_of_18,15,Other,Not A Brain,Other,Aloka,1,0
+Patient00015_Plane1_17_of_18,15,Other,Not A Brain,Other,Aloka,1,0
+Patient00015_Plane1_18_of_18,15,Other,Not A Brain,Other,Aloka,1,0
+Patient00019_Plane1_1_of_18,19,Other,Not A Brain,Other,Aloka,1,0
+Patient00019_Plane1_2_of_18,19,Other,Not A Brain,Other,Aloka,1,0
+Patient00019_Plane1_3_of_18,19,Other,Not A Brain,Other,Aloka,1,0
+Patient00019_Plane1_4_of_18,19,Other,Not A Brain,Other,Aloka,1,0
+Patient00019_Plane1_5_of_18,19,Other,Not A Brain,Other,Aloka,1,0
+Patient00019_Plane1_6_of_18,19,Other,Not A Brain,Other,Aloka,1,0
+Patient00019_Plane1_7_of_18,19,Other,Not A Brain,Other,Aloka,1,0
+Patient00019_Plane1_8_of_18,19,Other,Not A Brain,Other,Aloka,1,0
+Patient00019_Plane1_9_of_18,19,Other,Not A Brain,Other,Aloka,1,0
+Patient00019_Plane1_10_of_18,19,Other,Not A Brain,Other,Aloka,1,0
+Patient00019_Plane1_11_of_18,19,Other,Not A Brain,Other,Aloka,1,0
+Patient00019_Plane1_12_of_18,19,Other,Not A Brain,Other,Aloka,1,0
+Patient00019_Plane1_13_of_18,19,Other,Not A Brain,Other,Aloka,1,0
+Patient00019_Plane1_14_of_18,19,Other,Not A Brain,Other,Aloka,1,0
+Patient00019_Plane1_15_of_18,19,Other,Not A Brain,Other,Aloka,1,0
+Patient00019_Plane1_16_of_18,19,Other,Not A Brain,Other,Aloka,1,0
+Patient00019_Plane1_17_of_18,19,Other,Not A Brain,Other,Aloka,1,0
+Patient00019_Plane1_18_of_18,19,Other,Not A Brain,Other,Aloka,1,0
+Patient00021_Plane1_1_of_22,21,Other,Not A Brain,Other,Aloka,1,0
+Patient00021_Plane1_2_of_22,21,Other,Not A Brain,Other,Aloka,1,0
+Patient00021_Plane1_3_of_22,21,Other,Not A Brain,Other,Aloka,1,0
+Patient00021_Plane1_4_of_22,21,Other,Not A Brain,Other,Aloka,1,0
+Patient00021_Plane1_5_of_22,21,Other,Not A Brain,Other,Aloka,1,0
+Patient00021_Plane1_6_of_22,21,Other,Not A Brain,Other,Aloka,1,0
+Patient00021_Plane1_7_of_22,21,Other,Not A Brain,Other,Aloka,1,0
+Patient00021_Plane1_8_of_22,21,Other,Not A Brain,Other,Aloka,1,0
+Patient00021_Plane1_9_of_22,21,Other,Not A Brain,Other,Aloka,1,0
+Patient00021_Plane1_10_of_22,21,Other,Not A Brain,Other,Aloka,1,0
+Patient00021_Plane1_11_of_22,21,Other,Not A Brain,Other,Aloka,1,0
+Patient00021_Plane1_12_of_22,21,Other,Not A Brain,Other,Aloka,1,0
+Patient00021_Plane1_13_of_22,21,Other,Not A Brain,Other,Aloka,1,0
+Patient00021_Plane1_14_of_22,21,Other,Not A Brain,Other,Aloka,1,0
+Patient00021_Plane1_15_of_22,21,Other,Not A Brain,Other,Aloka,1,0
+Patient00021_Plane1_16_of_22,21,Other,Not A Brain,Other,Aloka,1,0
+Patient00021_Plane1_17_of_22,21,Other,Not A Brain,Other,Aloka,1,0
+Patient00021_Plane1_18_of_22,21,Other,Not A Brain,Other,Aloka,1,0
+Patient00021_Plane1_19_of_22,21,Other,Not A Brain,Other,Aloka,1,0
+Patient00021_Plane1_20_of_22,21,Other,Not A Brain,Other,Aloka,1,0
+Patient00021_Plane1_21_of_22,21,Other,Not A Brain,Other,Aloka,1,0
+Patient00021_Plane1_22_of_22,21,Other,Not A Brain,Other,Aloka,1,0
+Patient00023_Plane1_1_of_16,23,Other,Not A Brain,Other,Aloka,1,0
+Patient00023_Plane1_2_of_16,23,Other,Not A Brain,Other,Aloka,1,0
+Patient00023_Plane1_3_of_16,23,Other,Not A Brain,Other,Aloka,1,0
+Patient00023_Plane1_4_of_16,23,Other,Not A Brain,Other,Aloka,1,0
+Patient00023_Plane1_5_of_16,23,Other,Not A Brain,Other,Aloka,1,0
+Patient00023_Plane1_6_of_16,23,Other,Not A Brain,Other,Aloka,1,0
+Patient00023_Plane1_7_of_16,23,Other,Not A Brain,Other,Aloka,1,0
+Patient00023_Plane1_8_of_16,23,Other,Not A Brain,Other,Aloka,1,0
+Patient00023_Plane1_9_of_16,23,Other,Not A Brain,Other,Aloka,1,0
+Patient00023_Plane1_10_of_16,23,Other,Not A Brain,Other,Aloka,1,0
+Patient00023_Plane1_11_of_16,23,Other,Not A Brain,Other,Aloka,1,0
+Patient00023_Plane1_12_of_16,23,Other,Not A Brain,Other,Aloka,1,0
+Patient00023_Plane1_13_of_16,23,Other,Not A Brain,Other,Aloka,1,0
+Patient00023_Plane1_14_of_16,23,Other,Not A Brain,Other,Aloka,1,0
+Patient00023_Plane1_15_of_16,23,Other,Not A Brain,Other,Aloka,1,0
+Patient00023_Plane1_16_of_16,23,Other,Not A Brain,Other,Aloka,1,0
+Patient00029_Plane1_1_of_16,29,Other,Not A Brain,Other,Aloka,1,0
+Patient00029_Plane1_2_of_16,29,Other,Not A Brain,Other,Aloka,1,0
+Patient00029_Plane1_3_of_16,29,Other,Not A Brain,Other,Aloka,1,0
+Patient00029_Plane1_4_of_16,29,Other,Not A Brain,Other,Aloka,1,0
+Patient00029_Plane1_5_of_16,29,Other,Not A Brain,Other,Aloka,1,0
+Patient00029_Plane1_6_of_16,29,Other,Not A Brain,Other,Aloka,1,0
+Patient00029_Plane1_7_of_16,29,Other,Not A Brain,Other,Aloka,1,0
+Patient00029_Plane1_8_of_16,29,Other,Not A Brain,Other,Aloka,1,0
+Patient00029_Plane1_9_of_16,29,Other,Not A Brain,Other,Aloka,1,0
+Patient00029_Plane1_10_of_16,29,Other,Not A Brain,Other,Aloka,1,0
+Patient00029_Plane1_11_of_16,29,Other,Not A Brain,Other,Aloka,1,0
+Patient00029_Plane1_12_of_16,29,Other,Not A Brain,Other,Aloka,1,0
+Patient00029_Plane1_13_of_16,29,Other,Not A Brain,Other,Aloka,1,0
+Patient00029_Plane1_14_of_16,29,Other,Not A Brain,Other,Aloka,1,0
+Patient00029_Plane1_15_of_16,29,Other,Not A Brain,Other,Aloka,1,0
+Patient00029_Plane1_16_of_16,29,Other,Not A Brain,Other,Aloka,1,0
+Patient00039_Plane1_1_of_47,39,Other,Not A Brain,Other,Aloka,1,0
+Patient00039_Plane1_2_of_47,39,Other,Not A Brain,Other,Aloka,1,0
+Patient00039_Plane1_3_of_47,39,Other,Not A Brain,Other,Aloka,1,0
+Patient00039_Plane1_4_of_47,39,Other,Not A Brain,Other,Aloka,1,0
+Patient00039_Plane1_5_of_47,39,Other,Not A Brain,Other,Aloka,1,0
+Patient00039_Plane1_6_of_47,39,Other,Not A Brain,Other,Aloka,1,0
+Patient00039_Plane1_7_of_47,39,Other,Not A Brain,Other,Aloka,1,0
+Patient00039_Plane1_8_of_47,39,Other,Not A Brain,Other,Aloka,1,0
+Patient00039_Plane1_9_of_47,39,Other,Not A Brain,Other,Aloka,1,0
+Patient00039_Plane1_10_of_47,39,Other,Not A Brain,Other,Aloka,1,0
+Patient00039_Plane1_11_of_47,39,Other,Not A Brain,Other,Aloka,1,0
+Patient00039_Plane1_12_of_47,39,Other,Not A Brain,Other,Aloka,1,0
+Patient00039_Plane1_13_of_47,39,Other,Not A Brain,Other,Aloka,1,0
+Patient00039_Plane1_14_of_47,39,Other,Not A Brain,Other,Aloka,1,0
+Patient00039_Plane1_15_of_47,39,Other,Not A Brain,Other,Aloka,1,0
+Patient00039_Plane1_16_of_47,39,Other,Not A Brain,Other,Aloka,1,0
+Patient00039_Plane1_17_of_47,39,Other,Not A Brain,Other,Aloka,1,0
+Patient00039_Plane1_18_of_47,39,Other,Not A Brain,Other,Aloka,1,0
+Patient00039_Plane1_19_of_47,39,Other,Not A Brain,Other,Aloka,1,0
+Patient00039_Plane1_20_of_47,39,Other,Not A Brain,Other,Aloka,1,0
+Patient00039_Plane1_21_of_47,39,Other,Not A Brain,Other,Aloka,1,0
+Patient00039_Plane1_22_of_47,39,Other,Not A Brain,Other,Aloka,1,0
+Patient00039_Plane1_23_of_47,39,Other,Not A Brain,Other,Aloka,1,0
+Patient00039_Plane1_24_of_47,39,Other,Not A Brain,Other,Aloka,1,0
+Patient00039_Plane1_25_of_47,39,Other,Not A Brain,Other,Aloka,1,0
+Patient00039_Plane1_26_of_47,39,Other,Not A Brain,Other,Aloka,1,0
+Patient00039_Plane1_27_of_47,39,Other,Not A Brain,Other,Aloka,1,0
+Patient00039_Plane1_28_of_47,39,Other,Not A Brain,Other,Aloka,1,0
+Patient00039_Plane1_29_of_47,39,Other,Not A Brain,Other,Aloka,1,0
+Patient00039_Plane1_30_of_47,39,Other,Not A Brain,Other,Aloka,1,0
+Patient00039_Plane1_31_of_47,39,Other,Not A Brain,Other,Aloka,1,0
+Patient00039_Plane1_32_of_47,39,Other,Not A Brain,Other,Aloka,1,0
+Patient00039_Plane1_33_of_47,39,Other,Not A Brain,Other,Aloka,1,0
+Patient00039_Plane1_34_of_47,39,Other,Not A Brain,Other,Aloka,1,0
+Patient00039_Plane1_35_of_47,39,Other,Not A Brain,Other,Aloka,1,0
+Patient00039_Plane1_36_of_47,39,Other,Not A Brain,Other,Aloka,1,0
+Patient00039_Plane1_37_of_47,39,Other,Not A Brain,Other,Aloka,1,0
+Patient00039_Plane1_38_of_47,39,Other,Not A Brain,Other,Aloka,1,0
+Patient00039_Plane1_39_of_47,39,Other,Not A Brain,Other,Aloka,1,0
+Patient00039_Plane1_40_of_47,39,Other,Not A Brain,Other,Aloka,1,0
+Patient00039_Plane1_41_of_47,39,Other,Not A Brain,Other,Aloka,1,0
+Patient00039_Plane1_42_of_47,39,Other,Not A Brain,Other,Aloka,1,0
+Patient00039_Plane1_43_of_47,39,Other,Not A Brain,Other,Aloka,1,0
+Patient00039_Plane1_44_of_47,39,Other,Not A Brain,Other,Aloka,1,0
+Patient00039_Plane1_45_of_47,39,Other,Not A Brain,Other,Aloka,1,0
+Patient00039_Plane1_46_of_47,39,Other,Not A Brain,Other,Aloka,1,0
+Patient00039_Plane1_47_of_47,39,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_1_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_2_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_3_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_4_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_5_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_6_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_7_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_8_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_9_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_10_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_11_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_12_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_13_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_14_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_15_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_16_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_17_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_18_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_19_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_20_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_21_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_22_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_23_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_24_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_25_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_26_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_27_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_28_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_29_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_30_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_31_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_32_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_33_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_34_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_35_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_36_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_37_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_38_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_39_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_40_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_41_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_42_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_43_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_44_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_45_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_46_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_47_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_48_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_49_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_50_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_51_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_52_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_53_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_54_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00043_Plane1_55_of_55,43,Other,Not A Brain,Other,Aloka,1,0
+Patient00045_Plane4_1_of_1,45,Maternal cervix,Not A Brain,Other,Other,1,1
+Patient00048_Plane4_1_of_1,48,Maternal cervix,Not A Brain,Other,Other,1,1
+Patient00052_Plane4_1_of_1,52,Maternal cervix,Not A Brain,Other,Other,1,1
+Patient00057_Plane4_1_of_3,57,Maternal cervix,Not A Brain,Other,Other,1,1
+Patient00057_Plane4_2_of_3,57,Maternal cervix,Not A Brain,Other,Other,1,1
+Patient00057_Plane4_3_of_3,57,Maternal cervix,Not A Brain,Other,Other,1,1
+Patient00058_Plane4_1_of_1,58,Maternal cervix,Not A Brain,Other,Other,1,1
+Patient00071_Plane4_1_of_1,71,Maternal cervix,Not A Brain,Other,Other,1,1
+Patient00076_Plane4_1_of_1,76,Maternal cervix,Not A Brain,Other,Other,1,1
+Patient00078_Plane4_1_of_1,78,Maternal cervix,Not A Brain,Other,Other,1,1
+Patient00084_Plane4_1_of_1,84,Maternal cervix,Not A Brain,Other,Aloka,1,1
+Patient00087_Plane4_1_of_1,87,Maternal cervix,Not A Brain,Other,Aloka,1,1
+Patient00093_Plane4_1_of_1,93,Maternal cervix,Not A Brain,Other,Aloka,1,1
+Patient00096_Plane4_1_of_1,96,Maternal cervix,Not A Brain,Other,Aloka,1,1
+Patient00097_Plane4_1_of_1,97,Maternal cervix,Not A Brain,Other,Aloka,1,1
+Patient00106_Plane4_1_of_1,106,Maternal cervix,Not A Brain,Other,Other,1,1
+Patient00108_Plane4_1_of_1,108,Maternal cervix,Not A Brain,Op. 1,Voluson E6,1,1
+Patient00114_Plane4_1_of_1,114,Maternal cervix,Not A Brain,Other,Aloka,1,1
+Patient00124_Plane4_1_of_1,124,Maternal cervix,Not A Brain,Other,Other,1,1
+Patient00131_Plane4_1_of_1,131,Maternal cervix,Not A Brain,Other,Other,1,1
+Patient00132_Plane4_1_of_1,132,Maternal cervix,Not A Brain,Other,Aloka,1,1
+Patient00135_Plane4_1_of_1,135,Maternal cervix,Not A Brain,Other,Aloka,1,1
+Patient00149_Plane4_1_of_1,149,Maternal cervix,Not A Brain,Other,Aloka,1,1
+Patient00166_Plane4_1_of_2,166,Maternal cervix,Not A Brain,Other,Aloka,1,1
+Patient00166_Plane4_2_of_2,166,Maternal cervix,Not A Brain,Other,Aloka,1,1
+Patient00173_Plane4_1_of_1,173,Maternal cervix,Not A Brain,Op. 1,Voluson E6,1,1
+Patient00179_Plane4_1_of_1,179,Maternal cervix,Not A Brain,Op. 1,Voluson E6,1,1
+Patient00180_Plane4_1_of_1,180,Maternal cervix,Not A Brain,Op. 1,Voluson E6,1,1
+Patient00183_Plane4_1_of_1,183,Maternal cervix,Not A Brain,Op. 1,Voluson E6,1,1
+Patient00202_Plane4_1_of_1,202,Maternal cervix,Not A Brain,Other,Aloka,1,1
+Patient00207_Plane4_1_of_1,207,Maternal cervix,Not A Brain,Other,Aloka,1,1
+Patient00208_Plane4_1_of_1,208,Maternal cervix,Not A Brain,Other,Aloka,1,1
+Patient00234_Plane4_1_of_1,234,Maternal cervix,Not A Brain,Other,Aloka,1,1
+Patient00236_Plane4_1_of_1,236,Maternal cervix,Not A Brain,Other,Aloka,1,1
+Patient00237_Plane4_1_of_1,237,Maternal cervix,Not A Brain,Other,Aloka,1,1
+Patient00248_Plane4_1_of_1,248,Maternal cervix,Not A Brain,Other,Aloka,1,1
+Patient00252_Plane4_1_of_1,252,Maternal cervix,Not A Brain,Other,Aloka,1,1
+Patient00254_Plane4_1_of_1,254,Maternal cervix,Not A Brain,Other,Aloka,1,1
+Patient00259_Plane4_1_of_1,259,Maternal cervix,Not A Brain,Other,Aloka,1,1
+Patient00261_Plane4_1_of_1,261,Maternal cervix,Not A Brain,Other,Aloka,1,1
+Patient00262_Plane4_1_of_1,262,Maternal cervix,Not A Brain,Other,Aloka,1,1
+Patient00263_Plane4_1_of_1,263,Maternal cervix,Not A Brain,Other,Aloka,1,1
+Patient00264_Plane4_1_of_1,264,Maternal cervix,Not A Brain,Other,Aloka,1,1
+Patient00277_Plane4_1_of_1,277,Maternal cervix,Not A Brain,Other,Aloka,1,1
+Patient00280_Plane4_1_of_1,280,Maternal cervix,Not A Brain,Other,Aloka,1,1
+Patient00282_Plane4_1_of_1,282,Maternal cervix,Not A Brain,Other,Aloka,1,1
+Patient00283_Plane4_1_of_1,283,Maternal cervix,Not A Brain,Op. 1,Voluson E6,1,1
+Patient00288_Plane4_1_of_1,288,Maternal cervix,Not A Brain,Op. 1,Voluson E6,1,1
+Patient00289_Plane4_1_of_1,289,Maternal cervix,Not A Brain,Op. 1,Voluson E6,1,1
+Patient00292_Plane4_1_of_1,292,Maternal cervix,Not A Brain,Other,Aloka,1,1
+Patient00296_Plane4_1_of_1,296,Maternal cervix,Not A Brain,Other,Aloka,1,1
+Patient00298_Plane4_1_of_1,298,Maternal cervix,Not A Brain,Op. 1,Voluson E6,1,1
+Patient00307_Plane4_1_of_1,307,Maternal cervix,Not A Brain,Other,Aloka,1,1
+Patient00311_Plane4_1_of_1,311,Maternal cervix,Not A Brain,Other,Aloka,1,1
+Patient00312_Plane4_1_of_1,312,Maternal cervix,Not A Brain,Other,Aloka,1,1
+Patient00316_Plane4_1_of_1,316,Maternal cervix,Not A Brain,Other,Aloka,1,1
+Patient00317_Plane4_1_of_1,317,Maternal cervix,Not A Brain,Other,Aloka,1,1
+Patient00318_Plane4_1_of_1,318,Maternal cervix,Not A Brain,Other,Aloka,1,1
+Patient00325_Plane4_1_of_1,325,Maternal cervix,Not A Brain,Other,Aloka,1,1
+Patient00330_Plane4_1_of_1,330,Maternal cervix,Not A Brain,Other,Aloka,1,1
+Patient00661_Plane3_1_of_1,661,Fetal brain,Trans-ventricular,Other,Other,1,3
+Patient00661_Plane5_1_of_1,661,Fetal femur,Not A Brain,Other,Other,1,4
+Patient00661_Plane1_1_of_1,661,Other,Not A Brain,Other,Other,1,0
+Patient00663_Plane3_1_of_1,663,Fetal brain,Other,Other,Other,1,3
+Patient00668_Plane3_1_of_1,668,Fetal brain,Other,Op. 1,Voluson E6,1,3
+Patient00668_Plane5_1_of_1,668,Fetal femur,Not A Brain,Op. 1,Voluson E6,1,4
+Patient00672_Plane3_1_of_1,672,Fetal brain,Trans-thalamic,Other,Other,1,3
+Patient00672_Plane5_1_of_1,672,Fetal femur,Not A Brain,Other,Other,1,4
+Patient00672_Plane1_1_of_1,672,Other,Not A Brain,Other,Other,1,0
+Patient00674_Plane3_1_of_1,674,Fetal brain,Other,Other,Other,1,3
+Patient00674_Plane5_1_of_1,674,Fetal femur,Not A Brain,Other,Other,1,4
+Patient00674_Plane1_1_of_1,674,Other,Not A Brain,Other,Other,1,0
+Patient00676_Plane3_1_of_1,676,Fetal brain,Trans-thalamic,Other,Other,1,3
+Patient00680_Plane2_1_of_1,680,Fetal abdomen,Not A Brain,Other,Other,1,2
+Patient00680_Plane3_1_of_1,680,Fetal brain,Trans-thalamic,Other,Other,1,3
+Patient00680_Plane5_1_of_1,680,Fetal femur,Not A Brain,Other,Other,1,4
+Patient00681_Plane3_1_of_1,681,Fetal brain,Trans-thalamic,Other,Other,1,3
+Patient00681_Plane1_1_of_1,681,Other,Not A Brain,Other,Other,1,0
+Patient00690_Plane3_1_of_4,690,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient00690_Plane3_2_of_4,690,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient00690_Plane3_3_of_4,690,Fetal brain,Trans-cerebellum,Op. 1,Voluson E6,1,3
+Patient00690_Plane3_4_of_4,690,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient00690_Plane1_1_of_1,690,Other,Not A Brain,Op. 1,Voluson E6,1,0
+Patient00690_Plane6_1_of_2,690,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00690_Plane6_2_of_2,690,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00693_Plane2_1_of_1,693,Fetal abdomen,Not A Brain,Op. 1,Voluson E6,1,2
+Patient00693_Plane3_1_of_3,693,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient00693_Plane3_2_of_3,693,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient00693_Plane3_3_of_3,693,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient00693_Plane5_1_of_1,693,Fetal femur,Not A Brain,Op. 1,Voluson E6,1,4
+Patient00693_Plane6_1_of_2,693,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00693_Plane6_2_of_2,693,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00698_Plane2_1_of_1,698,Fetal abdomen,Not A Brain,Other,Other,1,2
+Patient00698_Plane3_1_of_3,698,Fetal brain,Trans-thalamic,Other,Other,1,3
+Patient00698_Plane3_2_of_3,698,Fetal brain,Trans-thalamic,Other,Other,1,3
+Patient00698_Plane3_3_of_3,698,Fetal brain,Trans-thalamic,Other,Other,1,3
+Patient00698_Plane4_1_of_1,698,Maternal cervix,Not A Brain,Other,Other,1,1
+Patient00698_Plane5_1_of_1,698,Fetal femur,Not A Brain,Other,Other,1,4
+Patient00698_Plane6_1_of_1,698,Fetal thorax,Not A Brain,Other,Other,1,5
+Patient00705_Plane2_1_of_2,705,Fetal abdomen,Not A Brain,Op. 1,Voluson E6,1,2
+Patient00705_Plane2_2_of_2,705,Fetal abdomen,Not A Brain,Op. 1,Voluson E6,1,2
+Patient00705_Plane3_1_of_3,705,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient00705_Plane3_2_of_3,705,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient00705_Plane3_3_of_3,705,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient00705_Plane5_1_of_2,705,Fetal femur,Not A Brain,Op. 1,Voluson E6,1,4
+Patient00705_Plane5_2_of_2,705,Fetal femur,Not A Brain,Op. 1,Voluson E6,1,4
+Patient00705_Plane6_1_of_2,705,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00705_Plane6_2_of_2,705,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00716_Plane2_1_of_1,716,Fetal abdomen,Not A Brain,Op. 1,Voluson E6,1,2
+Patient00716_Plane3_1_of_6,716,Fetal brain,Trans-thalamic,Op. 2,Voluson E6,1,3
+Patient00716_Plane3_2_of_6,716,Fetal brain,Other,Op. 1,Voluson E6,1,3
+Patient00716_Plane3_3_of_6,716,Fetal brain,Trans-ventricular,Op. 1,Voluson E6,1,3
+Patient00716_Plane3_4_of_6,716,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient00716_Plane3_5_of_6,716,Fetal brain,Other,Op. 1,Voluson E6,1,3
+Patient00716_Plane3_6_of_6,716,Fetal brain,Trans-cerebellum,Op. 1,Voluson E6,1,3
+Patient00716_Plane5_1_of_1,716,Fetal femur,Not A Brain,Op. 1,Voluson E6,1,4
+Patient00716_Plane6_1_of_5,716,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient00716_Plane6_2_of_5,716,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient00716_Plane6_3_of_5,716,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00716_Plane6_4_of_5,716,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00716_Plane6_5_of_5,716,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00723_Plane2_1_of_1,723,Fetal abdomen,Not A Brain,Op. 1,Voluson E6,1,2
+Patient00723_Plane3_1_of_4,723,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient00723_Plane3_2_of_4,723,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient00723_Plane3_3_of_4,723,Fetal brain,Trans-ventricular,Op. 1,Voluson E6,1,3
+Patient00723_Plane3_4_of_4,723,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient00723_Plane4_1_of_1,723,Maternal cervix,Not A Brain,Op. 1,Voluson E6,1,1
+Patient00723_Plane5_1_of_1,723,Fetal femur,Not A Brain,Op. 1,Voluson E6,1,4
+Patient00723_Plane6_1_of_4,723,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00723_Plane6_2_of_4,723,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00723_Plane6_3_of_4,723,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00723_Plane6_4_of_4,723,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00734_Plane3_1_of_1,734,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient00734_Plane5_1_of_1,734,Fetal femur,Not A Brain,Op. 1,Voluson E6,1,4
+Patient00734_Plane1_1_of_1,734,Other,Not A Brain,Op. 1,Voluson E6,1,0
+Patient00734_Plane6_1_of_4,734,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00734_Plane6_2_of_4,734,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00734_Plane6_3_of_4,734,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00734_Plane6_4_of_4,734,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00735_Plane6_1_of_5,735,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient00735_Plane6_2_of_5,735,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient00735_Plane6_3_of_5,735,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient00735_Plane6_4_of_5,735,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient00735_Plane6_5_of_5,735,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient00743_Plane2_1_of_1,743,Fetal abdomen,Not A Brain,Op. 1,Voluson E6,1,2
+Patient00743_Plane3_1_of_2,743,Fetal brain,Trans-thalamic,Op. 2,Voluson E6,1,3
+Patient00743_Plane3_2_of_2,743,Fetal brain,Trans-thalamic,Op. 2,Voluson E6,1,3
+Patient00743_Plane5_1_of_1,743,Fetal femur,Not A Brain,Op. 1,Voluson E6,1,4
+Patient00743_Plane6_1_of_1,743,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient00744_Plane3_1_of_2,744,Fetal brain,Trans-cerebellum,Op. 2,Voluson E6,1,3
+Patient00744_Plane3_2_of_2,744,Fetal brain,Trans-thalamic,Op. 2,Voluson E6,1,3
+Patient00744_Plane6_1_of_2,744,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient00744_Plane6_2_of_2,744,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient00750_Plane2_1_of_1,750,Fetal abdomen,Not A Brain,Op. 3,Aloka,1,2
+Patient00750_Plane3_1_of_3,750,Fetal brain,Trans-thalamic,Op. 3,Aloka,1,3
+Patient00750_Plane3_2_of_3,750,Fetal brain,Trans-thalamic,Op. 3,Aloka,1,3
+Patient00750_Plane3_3_of_3,750,Fetal brain,Trans-thalamic,Op. 3,Aloka,1,3
+Patient00750_Plane5_1_of_1,750,Fetal femur,Not A Brain,Op. 3,Aloka,1,4
+Patient00750_Plane6_1_of_1,750,Fetal thorax,Not A Brain,Op. 3,Aloka,1,5
+Patient00750_Plane1_1_of_7,750,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00750_Plane1_2_of_7,750,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00750_Plane1_3_of_7,750,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00750_Plane1_4_of_7,750,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00750_Plane1_5_of_7,750,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00750_Plane1_6_of_7,750,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00750_Plane1_7_of_7,750,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00753_Plane3_1_of_2,753,Fetal brain,Trans-ventricular,Op. 3,Aloka,1,3
+Patient00753_Plane3_2_of_2,753,Fetal brain,Trans-thalamic,Op. 3,Aloka,1,3
+Patient00753_Plane5_1_of_2,753,Fetal femur,Not A Brain,Op. 3,Aloka,1,4
+Patient00753_Plane5_2_of_2,753,Fetal femur,Not A Brain,Op. 3,Aloka,1,4
+Patient00753_Plane1_1_of_6,753,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00753_Plane1_2_of_6,753,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00753_Plane1_3_of_6,753,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00753_Plane1_4_of_6,753,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00753_Plane1_5_of_6,753,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00753_Plane1_6_of_6,753,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00765_Plane3_1_of_6,765,Fetal brain,Trans-ventricular,Op. 2,Voluson E6,1,3
+Patient00765_Plane3_2_of_6,765,Fetal brain,Trans-cerebellum,Op. 2,Voluson E6,1,3
+Patient00765_Plane3_3_of_6,765,Fetal brain,Trans-cerebellum,Op. 2,Voluson E6,1,3
+Patient00765_Plane3_4_of_6,765,Fetal brain,Trans-thalamic,Op. 2,Voluson E6,1,3
+Patient00765_Plane3_5_of_6,765,Fetal brain,Trans-thalamic,Op. 2,Voluson E6,1,3
+Patient00765_Plane3_6_of_6,765,Fetal brain,Trans-thalamic,Op. 2,Voluson E6,1,3
+Patient00765_Plane1_1_of_1,765,Other,Not A Brain,Op. 2,Voluson E6,1,0
+Patient00765_Plane6_1_of_4,765,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient00765_Plane6_2_of_4,765,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient00765_Plane6_3_of_4,765,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient00765_Plane6_4_of_4,765,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient00767_Plane2_1_of_1,767,Fetal abdomen,Not A Brain,Op. 1,Voluson E6,1,2
+Patient00767_Plane3_1_of_3,767,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient00767_Plane3_2_of_3,767,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient00767_Plane3_3_of_3,767,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient00767_Plane5_1_of_1,767,Fetal femur,Not A Brain,Op. 1,Voluson E6,1,4
+Patient00767_Plane6_1_of_1,767,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00771_Plane2_1_of_1,771,Fetal abdomen,Not A Brain,Op. 3,Aloka,1,2
+Patient00771_Plane3_1_of_3,771,Fetal brain,Trans-thalamic,Op. 3,Aloka,1,3
+Patient00771_Plane3_2_of_3,771,Fetal brain,Trans-cerebellum,Op. 3,Aloka,1,3
+Patient00771_Plane3_3_of_3,771,Fetal brain,Trans-ventricular,Op. 3,Aloka,1,3
+Patient00771_Plane4_1_of_4,771,Maternal cervix,Not A Brain,Op. 3,Aloka,1,1
+Patient00771_Plane4_2_of_4,771,Maternal cervix,Not A Brain,Op. 3,Aloka,1,1
+Patient00771_Plane4_3_of_4,771,Maternal cervix,Not A Brain,Op. 3,Aloka,1,1
+Patient00771_Plane4_4_of_4,771,Maternal cervix,Not A Brain,Op. 3,Aloka,1,1
+Patient00771_Plane5_1_of_1,771,Fetal femur,Not A Brain,Op. 3,Aloka,1,4
+Patient00771_Plane1_1_of_40,771,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00771_Plane6_1_of_2,771,Fetal thorax,Not A Brain,Op. 3,Aloka,1,5
+Patient00771_Plane6_2_of_2,771,Fetal thorax,Not A Brain,Op. 3,Aloka,1,5
+Patient00771_Plane1_2_of_40,771,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00771_Plane1_3_of_40,771,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00771_Plane1_4_of_40,771,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00771_Plane1_5_of_40,771,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00771_Plane1_6_of_40,771,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00771_Plane1_7_of_40,771,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00771_Plane1_8_of_40,771,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00771_Plane1_9_of_40,771,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00771_Plane1_10_of_40,771,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00771_Plane1_11_of_40,771,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00771_Plane1_12_of_40,771,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00771_Plane1_13_of_40,771,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00771_Plane1_14_of_40,771,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00771_Plane1_15_of_40,771,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00771_Plane1_16_of_40,771,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00771_Plane1_17_of_40,771,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00771_Plane1_18_of_40,771,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00771_Plane1_19_of_40,771,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00771_Plane1_20_of_40,771,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00771_Plane1_21_of_40,771,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00771_Plane1_22_of_40,771,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00771_Plane1_23_of_40,771,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00771_Plane1_24_of_40,771,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00771_Plane1_25_of_40,771,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00771_Plane1_26_of_40,771,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00771_Plane1_27_of_40,771,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00771_Plane1_28_of_40,771,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00771_Plane1_29_of_40,771,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00771_Plane1_30_of_40,771,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00771_Plane1_31_of_40,771,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00771_Plane1_32_of_40,771,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00771_Plane1_33_of_40,771,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00771_Plane1_34_of_40,771,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00771_Plane1_35_of_40,771,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00771_Plane1_36_of_40,771,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00771_Plane1_37_of_40,771,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00771_Plane1_38_of_40,771,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00771_Plane1_39_of_40,771,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00771_Plane1_40_of_40,771,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00772_Plane2_1_of_1,772,Fetal abdomen,Not A Brain,Op. 3,Aloka,1,2
+Patient00772_Plane3_1_of_3,772,Fetal brain,Trans-thalamic,Op. 3,Aloka,1,3
+Patient00772_Plane3_2_of_3,772,Fetal brain,Trans-thalamic,Op. 3,Aloka,1,3
+Patient00772_Plane3_3_of_3,772,Fetal brain,Trans-cerebellum,Op. 3,Aloka,1,3
+Patient00772_Plane5_1_of_1,772,Fetal femur,Not A Brain,Op. 3,Aloka,1,4
+Patient00772_Plane6_1_of_1,772,Fetal thorax,Not A Brain,Op. 3,Aloka,1,5
+Patient00772_Plane1_1_of_4,772,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00772_Plane1_2_of_4,772,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00772_Plane1_3_of_4,772,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00772_Plane1_4_of_4,772,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00773_Plane2_1_of_1,773,Fetal abdomen,Not A Brain,Op. 2,Voluson E6,1,2
+Patient00775_Plane2_1_of_1,775,Fetal abdomen,Not A Brain,Op. 1,Voluson E6,1,2
+Patient00775_Plane3_1_of_3,775,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient00775_Plane3_2_of_3,775,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient00775_Plane3_3_of_3,775,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient00775_Plane4_1_of_1,775,Maternal cervix,Not A Brain,Op. 1,Voluson E6,1,1
+Patient00775_Plane5_1_of_1,775,Fetal femur,Not A Brain,Op. 1,Voluson E6,1,4
+Patient00775_Plane1_1_of_1,775,Other,Not A Brain,Op. 1,Voluson E6,1,0
+Patient00775_Plane6_1_of_3,775,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00775_Plane6_2_of_3,775,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00775_Plane6_3_of_3,775,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00776_Plane2_1_of_1,776,Fetal abdomen,Not A Brain,Other,Other,1,2
+Patient00776_Plane3_1_of_6,776,Fetal brain,Trans-thalamic,Other,Other,1,3
+Patient00776_Plane3_2_of_6,776,Fetal brain,Trans-thalamic,Other,Other,1,3
+Patient00776_Plane3_3_of_6,776,Fetal brain,Trans-cerebellum,Other,Other,1,3
+Patient00776_Plane3_4_of_6,776,Fetal brain,Trans-thalamic,Other,Other,1,3
+Patient00776_Plane3_5_of_6,776,Fetal brain,Trans-thalamic,Other,Other,1,3
+Patient00776_Plane3_6_of_6,776,Fetal brain,Trans-thalamic,Other,Other,1,3
+Patient00776_Plane4_1_of_2,776,Maternal cervix,Not A Brain,Other,Other,1,1
+Patient00776_Plane4_2_of_2,776,Maternal cervix,Not A Brain,Other,Other,1,1
+Patient00776_Plane5_1_of_1,776,Fetal femur,Not A Brain,Other,Other,1,4
+Patient00776_Plane6_1_of_1,776,Fetal thorax,Not A Brain,Other,Other,1,5
+Patient00779_Plane2_1_of_1,779,Fetal abdomen,Not A Brain,Op. 1,Voluson E6,1,2
+Patient00779_Plane3_1_of_3,779,Fetal brain,Trans-cerebellum,Op. 1,Voluson E6,1,3
+Patient00779_Plane3_2_of_3,779,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient00779_Plane3_3_of_3,779,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient00779_Plane4_1_of_4,779,Maternal cervix,Not A Brain,Op. 1,Voluson E6,1,1
+Patient00779_Plane4_2_of_4,779,Maternal cervix,Not A Brain,Op. 1,Voluson E6,1,1
+Patient00779_Plane4_3_of_4,779,Maternal cervix,Not A Brain,Op. 1,Voluson E6,1,1
+Patient00779_Plane4_4_of_4,779,Maternal cervix,Not A Brain,Op. 1,Voluson E6,1,1
+Patient00779_Plane5_1_of_2,779,Fetal femur,Not A Brain,Op. 1,Voluson E6,1,4
+Patient00779_Plane5_2_of_2,779,Fetal femur,Not A Brain,Op. 1,Voluson E6,1,4
+Patient00779_Plane1_1_of_1,779,Other,Not A Brain,Op. 1,Voluson E6,1,0
+Patient00779_Plane6_1_of_3,779,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00779_Plane6_2_of_3,779,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00779_Plane6_3_of_3,779,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00780_Plane3_1_of_1,780,Fetal brain,Trans-thalamic,Op. 2,Voluson E6,1,3
+Patient00780_Plane6_1_of_3,780,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient00780_Plane6_2_of_3,780,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient00780_Plane6_3_of_3,780,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient00786_Plane2_1_of_1,786,Fetal abdomen,Not A Brain,Op. 2,Voluson E6,1,2
+Patient00786_Plane3_1_of_3,786,Fetal brain,Trans-thalamic,Op. 2,Voluson E6,1,3
+Patient00786_Plane3_2_of_3,786,Fetal brain,Trans-ventricular,Op. 2,Voluson E6,1,3
+Patient00786_Plane3_3_of_3,786,Fetal brain,Trans-cerebellum,Op. 2,Voluson E6,1,3
+Patient00786_Plane4_1_of_6,786,Maternal cervix,Not A Brain,Op. 2,Voluson E6,1,1
+Patient00786_Plane4_2_of_6,786,Maternal cervix,Not A Brain,Op. 2,Voluson E6,1,1
+Patient00786_Plane4_3_of_6,786,Maternal cervix,Not A Brain,Op. 2,Voluson E6,1,1
+Patient00786_Plane4_4_of_6,786,Maternal cervix,Not A Brain,Op. 2,Voluson E6,1,1
+Patient00786_Plane4_5_of_6,786,Maternal cervix,Not A Brain,Op. 2,Voluson E6,1,1
+Patient00786_Plane4_6_of_6,786,Maternal cervix,Not A Brain,Op. 2,Voluson E6,1,1
+Patient00786_Plane1_1_of_1,786,Other,Not A Brain,Op. 2,Voluson E6,1,0
+Patient00786_Plane6_1_of_5,786,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient00786_Plane6_2_of_5,786,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient00786_Plane6_3_of_5,786,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient00786_Plane6_4_of_5,786,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient00786_Plane6_5_of_5,786,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient00794_Plane2_1_of_1,794,Fetal abdomen,Not A Brain,Op. 3,Aloka,1,2
+Patient00794_Plane3_1_of_3,794,Fetal brain,Trans-thalamic,Op. 3,Aloka,1,3
+Patient00794_Plane3_2_of_3,794,Fetal brain,Trans-thalamic,Op. 3,Aloka,1,3
+Patient00794_Plane3_3_of_3,794,Fetal brain,Trans-cerebellum,Op. 3,Aloka,1,3
+Patient00794_Plane5_1_of_1,794,Fetal femur,Not A Brain,Op. 3,Aloka,1,4
+Patient00794_Plane1_1_of_7,794,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00794_Plane1_2_of_7,794,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00794_Plane1_3_of_7,794,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00794_Plane1_4_of_7,794,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00794_Plane1_5_of_7,794,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00794_Plane1_6_of_7,794,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00794_Plane1_7_of_7,794,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00800_Plane6_1_of_5,800,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient00800_Plane6_2_of_5,800,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient00800_Plane6_3_of_5,800,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient00800_Plane6_4_of_5,800,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient00800_Plane6_5_of_5,800,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient00805_Plane3_1_of_2,805,Fetal brain,Trans-thalamic,Op. 2,Voluson E6,1,3
+Patient00805_Plane3_2_of_2,805,Fetal brain,Trans-thalamic,Op. 2,Voluson E6,1,3
+Patient00805_Plane6_1_of_3,805,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient00805_Plane6_2_of_3,805,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient00805_Plane6_3_of_3,805,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient00817_Plane3_1_of_2,817,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient00817_Plane3_2_of_2,817,Fetal brain,Trans-cerebellum,Op. 1,Voluson E6,1,3
+Patient00817_Plane1_1_of_1,817,Other,Not A Brain,Op. 1,Voluson E6,1,0
+Patient00817_Plane6_1_of_8,817,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00817_Plane6_2_of_8,817,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00817_Plane6_3_of_8,817,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00817_Plane6_4_of_8,817,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00817_Plane6_5_of_8,817,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00817_Plane6_6_of_8,817,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00817_Plane6_7_of_8,817,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00817_Plane6_8_of_8,817,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00831_Plane3_1_of_1,831,Fetal brain,Trans-ventricular,Op. 3,Aloka,1,3
+Patient00831_Plane4_1_of_5,831,Maternal cervix,Not A Brain,Op. 3,Aloka,1,1
+Patient00831_Plane4_2_of_5,831,Maternal cervix,Not A Brain,Op. 3,Aloka,1,1
+Patient00831_Plane4_3_of_5,831,Maternal cervix,Not A Brain,Op. 3,Aloka,1,1
+Patient00831_Plane4_4_of_5,831,Maternal cervix,Not A Brain,Op. 3,Aloka,1,1
+Patient00831_Plane4_5_of_5,831,Maternal cervix,Not A Brain,Op. 3,Aloka,1,1
+Patient00831_Plane5_1_of_2,831,Fetal femur,Not A Brain,Op. 3,Aloka,1,4
+Patient00831_Plane5_2_of_2,831,Fetal femur,Not A Brain,Op. 3,Aloka,1,4
+Patient00831_Plane1_1_of_38,831,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00831_Plane1_2_of_38,831,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00831_Plane1_3_of_38,831,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00831_Plane1_4_of_38,831,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00831_Plane1_5_of_38,831,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00831_Plane1_6_of_38,831,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00831_Plane1_7_of_38,831,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00831_Plane1_8_of_38,831,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00831_Plane1_9_of_38,831,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00831_Plane1_10_of_38,831,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00831_Plane1_11_of_38,831,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00831_Plane1_12_of_38,831,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00831_Plane1_13_of_38,831,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00831_Plane1_14_of_38,831,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00831_Plane1_15_of_38,831,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00831_Plane1_16_of_38,831,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00831_Plane1_17_of_38,831,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00831_Plane1_18_of_38,831,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00831_Plane1_19_of_38,831,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00831_Plane1_20_of_38,831,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00831_Plane1_21_of_38,831,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00831_Plane1_22_of_38,831,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00831_Plane1_23_of_38,831,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00831_Plane1_24_of_38,831,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00831_Plane1_25_of_38,831,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00831_Plane1_26_of_38,831,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00831_Plane1_27_of_38,831,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00831_Plane1_28_of_38,831,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00831_Plane1_29_of_38,831,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00831_Plane1_30_of_38,831,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00831_Plane1_31_of_38,831,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00831_Plane1_32_of_38,831,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00831_Plane1_33_of_38,831,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00831_Plane1_34_of_38,831,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00831_Plane1_35_of_38,831,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00831_Plane1_36_of_38,831,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00831_Plane1_37_of_38,831,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00831_Plane1_38_of_38,831,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00839_Plane3_1_of_4,839,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient00839_Plane3_2_of_4,839,Fetal brain,Trans-ventricular,Op. 1,Voluson E6,1,3
+Patient00839_Plane3_3_of_4,839,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient00839_Plane3_4_of_4,839,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient00839_Plane6_1_of_2,839,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00839_Plane6_2_of_2,839,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00854_Plane2_1_of_1,854,Fetal abdomen,Not A Brain,Op. 3,Aloka,1,2
+Patient00854_Plane3_1_of_3,854,Fetal brain,Trans-cerebellum,Op. 3,Aloka,1,3
+Patient00854_Plane3_2_of_3,854,Fetal brain,Trans-ventricular,Op. 3,Aloka,1,3
+Patient00854_Plane3_3_of_3,854,Fetal brain,Trans-thalamic,Op. 3,Aloka,1,3
+Patient00854_Plane5_1_of_1,854,Fetal femur,Not A Brain,Op. 3,Aloka,1,4
+Patient00854_Plane6_1_of_3,854,Fetal thorax,Not A Brain,Op. 3,Aloka,1,5
+Patient00854_Plane6_2_of_3,854,Fetal thorax,Not A Brain,Op. 3,Aloka,1,5
+Patient00854_Plane6_3_of_3,854,Fetal thorax,Not A Brain,Op. 3,Aloka,1,5
+Patient00854_Plane1_1_of_32,854,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00854_Plane1_2_of_32,854,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00854_Plane1_3_of_32,854,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00854_Plane1_4_of_32,854,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00854_Plane1_5_of_32,854,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00854_Plane1_6_of_32,854,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00854_Plane1_7_of_32,854,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00854_Plane1_8_of_32,854,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00854_Plane1_9_of_32,854,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00854_Plane1_10_of_32,854,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00854_Plane1_11_of_32,854,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00854_Plane1_12_of_32,854,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00854_Plane1_13_of_32,854,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00854_Plane1_14_of_32,854,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00854_Plane1_15_of_32,854,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00854_Plane1_16_of_32,854,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00854_Plane1_17_of_32,854,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00854_Plane1_18_of_32,854,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00854_Plane1_19_of_32,854,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00854_Plane1_20_of_32,854,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00854_Plane1_21_of_32,854,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00854_Plane1_22_of_32,854,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00854_Plane1_23_of_32,854,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00854_Plane1_24_of_32,854,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00854_Plane1_25_of_32,854,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00854_Plane1_26_of_32,854,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00854_Plane1_27_of_32,854,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00854_Plane1_28_of_32,854,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00854_Plane1_29_of_32,854,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00854_Plane1_30_of_32,854,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00854_Plane1_31_of_32,854,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00854_Plane1_32_of_32,854,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00856_Plane2_1_of_1,856,Fetal abdomen,Not A Brain,Op. 3,Aloka,1,2
+Patient00856_Plane3_1_of_2,856,Fetal brain,Trans-thalamic,Op. 3,Aloka,1,3
+Patient00856_Plane3_2_of_2,856,Fetal brain,Trans-thalamic,Op. 3,Aloka,1,3
+Patient00856_Plane5_1_of_1,856,Fetal femur,Not A Brain,Op. 3,Aloka,1,4
+Patient00856_Plane6_1_of_3,856,Fetal thorax,Not A Brain,Op. 3,Aloka,1,5
+Patient00856_Plane6_2_of_3,856,Fetal thorax,Not A Brain,Op. 3,Aloka,1,5
+Patient00856_Plane6_3_of_3,856,Fetal thorax,Not A Brain,Op. 3,Aloka,1,5
+Patient00856_Plane1_1_of_12,856,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00856_Plane1_2_of_12,856,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00856_Plane1_3_of_12,856,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00856_Plane1_4_of_12,856,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00856_Plane1_5_of_12,856,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00856_Plane1_6_of_12,856,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00856_Plane1_7_of_12,856,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00856_Plane1_8_of_12,856,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00856_Plane1_9_of_12,856,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00856_Plane1_10_of_12,856,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00856_Plane1_11_of_12,856,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00856_Plane1_12_of_12,856,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00861_Plane3_1_of_4,861,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient00861_Plane3_2_of_4,861,Fetal brain,Trans-ventricular,Op. 1,Voluson E6,1,3
+Patient00861_Plane3_3_of_4,861,Fetal brain,Trans-cerebellum,Op. 1,Voluson E6,1,3
+Patient00861_Plane3_4_of_4,861,Fetal brain,Trans-ventricular,Op. 1,Voluson E6,1,3
+Patient00861_Plane4_1_of_4,861,Maternal cervix,Not A Brain,Op. 1,Voluson E6,1,1
+Patient00861_Plane4_2_of_4,861,Maternal cervix,Not A Brain,Op. 1,Voluson E6,1,1
+Patient00861_Plane4_3_of_4,861,Maternal cervix,Not A Brain,Op. 1,Voluson E6,1,1
+Patient00861_Plane4_4_of_4,861,Maternal cervix,Not A Brain,Op. 1,Voluson E6,1,1
+Patient00861_Plane5_1_of_1,861,Fetal femur,Not A Brain,Op. 1,Voluson E6,1,4
+Patient00861_Plane1_1_of_1,861,Other,Not A Brain,Op. 1,Voluson E6,1,0
+Patient00861_Plane6_1_of_2,861,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00861_Plane6_2_of_2,861,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00868_Plane2_1_of_2,868,Fetal abdomen,Not A Brain,Op. 3,Aloka,1,2
+Patient00868_Plane2_2_of_2,868,Fetal abdomen,Not A Brain,Op. 3,Aloka,1,2
+Patient00868_Plane3_1_of_2,868,Fetal brain,Trans-thalamic,Op. 3,Aloka,1,3
+Patient00868_Plane3_2_of_2,868,Fetal brain,Trans-thalamic,Op. 3,Aloka,1,3
+Patient00868_Plane1_1_of_4,868,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00868_Plane1_2_of_4,868,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00868_Plane1_3_of_4,868,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00868_Plane1_4_of_4,868,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00870_Plane2_1_of_2,870,Fetal abdomen,Not A Brain,Op. 3,Aloka,1,2
+Patient00870_Plane2_2_of_2,870,Fetal abdomen,Not A Brain,Op. 3,Aloka,1,2
+Patient00870_Plane3_1_of_5,870,Fetal brain,Trans-thalamic,Op. 3,Aloka,1,3
+Patient00870_Plane3_2_of_5,870,Fetal brain,Trans-ventricular,Op. 3,Aloka,1,3
+Patient00870_Plane3_3_of_5,870,Fetal brain,Trans-thalamic,Op. 3,Aloka,1,3
+Patient00870_Plane3_4_of_5,870,Fetal brain,Trans-thalamic,Op. 3,Aloka,1,3
+Patient00870_Plane3_5_of_5,870,Fetal brain,Trans-cerebellum,Op. 3,Aloka,1,3
+Patient00870_Plane5_1_of_1,870,Fetal femur,Not A Brain,Op. 3,Aloka,1,4
+Patient00870_Plane1_1_of_8,870,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00870_Plane6_1_of_2,870,Fetal thorax,Not A Brain,Op. 3,Aloka,1,5
+Patient00870_Plane6_2_of_2,870,Fetal thorax,Not A Brain,Op. 3,Aloka,1,5
+Patient00870_Plane1_2_of_8,870,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00870_Plane1_3_of_8,870,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00870_Plane1_4_of_8,870,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00870_Plane1_5_of_8,870,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00870_Plane1_6_of_8,870,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00870_Plane1_7_of_8,870,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00870_Plane1_8_of_8,870,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00872_Plane2_1_of_1,872,Fetal abdomen,Not A Brain,Op. 3,Aloka,1,2
+Patient00872_Plane3_1_of_2,872,Fetal brain,Trans-thalamic,Op. 3,Aloka,1,3
+Patient00872_Plane3_2_of_2,872,Fetal brain,Trans-thalamic,Op. 3,Aloka,1,3
+Patient00872_Plane5_1_of_1,872,Fetal femur,Not A Brain,Op. 3,Aloka,1,4
+Patient00872_Plane1_1_of_3,872,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00872_Plane1_2_of_3,872,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00872_Plane1_3_of_3,872,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00873_Plane2_1_of_1,873,Fetal abdomen,Not A Brain,Op. 3,Aloka,1,2
+Patient00873_Plane3_1_of_3,873,Fetal brain,Trans-thalamic,Op. 3,Aloka,1,3
+Patient00873_Plane3_2_of_3,873,Fetal brain,Trans-cerebellum,Op. 3,Aloka,1,3
+Patient00873_Plane3_3_of_3,873,Fetal brain,Trans-ventricular,Op. 3,Aloka,1,3
+Patient00873_Plane5_1_of_1,873,Fetal femur,Not A Brain,Op. 3,Aloka,1,4
+Patient00873_Plane6_1_of_2,873,Fetal thorax,Not A Brain,Op. 3,Aloka,1,5
+Patient00873_Plane6_2_of_2,873,Fetal thorax,Not A Brain,Op. 3,Aloka,1,5
+Patient00873_Plane1_1_of_23,873,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00873_Plane1_2_of_23,873,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00873_Plane1_3_of_23,873,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00873_Plane1_4_of_23,873,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00873_Plane1_5_of_23,873,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00873_Plane1_6_of_23,873,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00873_Plane1_7_of_23,873,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00873_Plane1_8_of_23,873,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00873_Plane1_9_of_23,873,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00873_Plane1_10_of_23,873,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00873_Plane1_11_of_23,873,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00873_Plane1_12_of_23,873,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00873_Plane1_13_of_23,873,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00873_Plane1_14_of_23,873,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00873_Plane1_15_of_23,873,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00873_Plane1_16_of_23,873,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00873_Plane1_17_of_23,873,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00873_Plane1_18_of_23,873,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00873_Plane1_19_of_23,873,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00873_Plane1_20_of_23,873,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00873_Plane1_21_of_23,873,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00873_Plane1_22_of_23,873,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00873_Plane1_23_of_23,873,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00882_Plane2_1_of_2,882,Fetal abdomen,Not A Brain,Op. 2,Voluson E6,1,2
+Patient00882_Plane2_2_of_2,882,Fetal abdomen,Not A Brain,Op. 2,Voluson E6,1,2
+Patient00882_Plane3_1_of_3,882,Fetal brain,Trans-thalamic,Op. 2,Voluson E6,1,3
+Patient00882_Plane3_2_of_3,882,Fetal brain,Trans-thalamic,Op. 2,Voluson E6,1,3
+Patient00882_Plane3_3_of_3,882,Fetal brain,Trans-thalamic,Op. 2,Voluson E6,1,3
+Patient00882_Plane4_1_of_3,882,Maternal cervix,Not A Brain,Op. 1,Voluson E6,1,1
+Patient00882_Plane4_2_of_3,882,Maternal cervix,Not A Brain,Op. 1,Voluson E6,1,1
+Patient00882_Plane4_3_of_3,882,Maternal cervix,Not A Brain,Op. 1,Voluson E6,1,1
+Patient00882_Plane1_1_of_1,882,Other,Not A Brain,Op. 1,Voluson E6,1,0
+Patient00882_Plane6_1_of_7,882,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient00882_Plane6_2_of_7,882,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00882_Plane6_3_of_7,882,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00882_Plane6_4_of_7,882,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00882_Plane6_5_of_7,882,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00882_Plane6_6_of_7,882,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00882_Plane6_7_of_7,882,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00889_Plane2_1_of_1,889,Fetal abdomen,Not A Brain,Op. 3,Aloka,1,2
+Patient00889_Plane3_1_of_1,889,Fetal brain,Trans-thalamic,Op. 3,Aloka,1,3
+Patient00889_Plane4_1_of_4,889,Maternal cervix,Not A Brain,Op. 3,Aloka,1,1
+Patient00889_Plane4_2_of_4,889,Maternal cervix,Not A Brain,Op. 3,Aloka,1,1
+Patient00889_Plane4_3_of_4,889,Maternal cervix,Not A Brain,Op. 3,Aloka,1,1
+Patient00889_Plane4_4_of_4,889,Maternal cervix,Not A Brain,Op. 3,Aloka,1,1
+Patient00889_Plane1_1_of_12,889,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00889_Plane1_2_of_12,889,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00889_Plane1_3_of_12,889,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00889_Plane1_4_of_12,889,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00889_Plane1_5_of_12,889,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00889_Plane1_6_of_12,889,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00889_Plane1_7_of_12,889,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00889_Plane1_8_of_12,889,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00889_Plane1_9_of_12,889,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00889_Plane1_10_of_12,889,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00889_Plane1_11_of_12,889,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00889_Plane1_12_of_12,889,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00893_Plane3_1_of_2,893,Fetal brain,Trans-thalamic,Op. 3,Aloka,1,3
+Patient00893_Plane3_2_of_2,893,Fetal brain,Trans-thalamic,Op. 3,Aloka,1,3
+Patient00893_Plane5_1_of_1,893,Fetal femur,Not A Brain,Op. 3,Aloka,1,4
+Patient00893_Plane1_1_of_3,893,Other,Not A Brain,Op. 2,Voluson E6,1,0
+Patient00893_Plane6_1_of_1,893,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient00893_Plane1_2_of_3,893,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00893_Plane1_3_of_3,893,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00896_Plane3_1_of_3,896,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient00896_Plane3_2_of_3,896,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient00896_Plane3_3_of_3,896,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient00896_Plane4_1_of_1,896,Maternal cervix,Not A Brain,Op. 1,Voluson E6,1,1
+Patient00896_Plane5_1_of_3,896,Fetal femur,Not A Brain,Op. 1,Voluson E6,1,4
+Patient00896_Plane5_2_of_3,896,Fetal femur,Not A Brain,Op. 1,Voluson E6,1,4
+Patient00896_Plane5_3_of_3,896,Fetal femur,Not A Brain,Op. 1,Voluson E6,1,4
+Patient00896_Plane1_1_of_1,896,Other,Not A Brain,Op. 1,Voluson E6,1,0
+Patient00896_Plane6_1_of_12,896,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00896_Plane6_2_of_12,896,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00896_Plane6_3_of_12,896,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00896_Plane6_4_of_12,896,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00896_Plane6_5_of_12,896,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00896_Plane6_6_of_12,896,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00896_Plane6_7_of_12,896,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00896_Plane6_8_of_12,896,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00896_Plane6_9_of_12,896,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00896_Plane6_10_of_12,896,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00896_Plane6_11_of_12,896,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00896_Plane6_12_of_12,896,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00899_Plane2_1_of_1,899,Fetal abdomen,Not A Brain,Op. 1,Voluson E6,1,2
+Patient00899_Plane3_1_of_4,899,Fetal brain,Trans-ventricular,Op. 1,Voluson E6,1,3
+Patient00899_Plane3_2_of_4,899,Fetal brain,Trans-cerebellum,Op. 1,Voluson E6,1,3
+Patient00899_Plane3_3_of_4,899,Fetal brain,Trans-cerebellum,Op. 1,Voluson E6,1,3
+Patient00899_Plane3_4_of_4,899,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient00899_Plane1_1_of_1,899,Other,Not A Brain,Op. 1,Voluson E6,1,0
+Patient00899_Plane6_1_of_3,899,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00899_Plane6_2_of_3,899,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00899_Plane6_3_of_3,899,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00903_Plane2_1_of_1,903,Fetal abdomen,Not A Brain,Op. 2,Voluson E6,1,2
+Patient00903_Plane3_1_of_1,903,Fetal brain,Trans-cerebellum,Op. 2,Voluson E6,1,3
+Patient00903_Plane4_1_of_5,903,Maternal cervix,Not A Brain,Op. 2,Voluson E6,1,1
+Patient00903_Plane4_2_of_5,903,Maternal cervix,Not A Brain,Op. 2,Voluson E6,1,1
+Patient00903_Plane4_3_of_5,903,Maternal cervix,Not A Brain,Op. 2,Voluson E6,1,1
+Patient00903_Plane4_4_of_5,903,Maternal cervix,Not A Brain,Op. 2,Voluson E6,1,1
+Patient00903_Plane4_5_of_5,903,Maternal cervix,Not A Brain,Op. 2,Voluson E6,1,1
+Patient00903_Plane1_1_of_1,903,Other,Not A Brain,Op. 2,Voluson E6,1,0
+Patient00903_Plane6_1_of_3,903,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient00903_Plane6_2_of_3,903,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient00903_Plane6_3_of_3,903,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient00905_Plane3_1_of_1,905,Fetal brain,Trans-ventricular,Op. 1,Voluson E6,1,3
+Patient00905_Plane4_1_of_3,905,Maternal cervix,Not A Brain,Op. 1,Voluson E6,1,1
+Patient00905_Plane4_2_of_3,905,Maternal cervix,Not A Brain,Op. 1,Voluson E6,1,1
+Patient00905_Plane4_3_of_3,905,Maternal cervix,Not A Brain,Op. 1,Voluson E6,1,1
+Patient00905_Plane5_1_of_1,905,Fetal femur,Not A Brain,Op. 1,Voluson E6,1,4
+Patient00905_Plane1_1_of_1,905,Other,Not A Brain,Op. 1,Voluson E6,1,0
+Patient00905_Plane6_1_of_5,905,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00905_Plane6_2_of_5,905,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00905_Plane6_3_of_5,905,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00905_Plane6_4_of_5,905,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00905_Plane6_5_of_5,905,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00915_Plane2_1_of_1,915,Fetal abdomen,Not A Brain,Op. 1,Voluson E6,1,2
+Patient00915_Plane4_1_of_1,915,Maternal cervix,Not A Brain,Op. 1,Voluson E6,1,1
+Patient00915_Plane5_1_of_1,915,Fetal femur,Not A Brain,Op. 2,Voluson E6,1,4
+Patient00915_Plane1_1_of_1,915,Other,Not A Brain,Op. 2,Voluson E6,1,0
+Patient00922_Plane2_1_of_1,922,Fetal abdomen,Not A Brain,Op. 3,Aloka,1,2
+Patient00922_Plane3_1_of_1,922,Fetal brain,Trans-cerebellum,Op. 3,Aloka,1,3
+Patient00922_Plane5_1_of_1,922,Fetal femur,Not A Brain,Op. 3,Aloka,1,4
+Patient00922_Plane1_1_of_1,922,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00922_Plane6_1_of_1,922,Fetal thorax,Not A Brain,Op. 3,Aloka,1,5
+Patient00934_Plane3_1_of_2,934,Fetal brain,Trans-thalamic,Op. 2,Voluson E6,1,3
+Patient00934_Plane3_2_of_2,934,Fetal brain,Trans-thalamic,Op. 2,Voluson E6,1,3
+Patient00934_Plane6_1_of_1,934,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient00942_Plane4_1_of_2,942,Maternal cervix,Not A Brain,Op. 1,Voluson E6,1,1
+Patient00942_Plane4_2_of_2,942,Maternal cervix,Not A Brain,Op. 1,Voluson E6,1,1
+Patient00942_Plane5_1_of_2,942,Fetal femur,Not A Brain,Op. 1,Voluson E6,1,4
+Patient00942_Plane5_2_of_2,942,Fetal femur,Not A Brain,Op. 1,Voluson E6,1,4
+Patient00942_Plane1_1_of_1,942,Other,Not A Brain,Op. 1,Voluson E6,1,0
+Patient00942_Plane6_1_of_4,942,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00942_Plane6_2_of_4,942,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00942_Plane6_3_of_4,942,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00942_Plane6_4_of_4,942,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00946_Plane3_1_of_2,946,Fetal brain,Trans-ventricular,Op. 2,Voluson E6,1,3
+Patient00946_Plane3_2_of_2,946,Fetal brain,Trans-cerebellum,Op. 2,Voluson E6,1,3
+Patient00946_Plane1_1_of_1,946,Other,Not A Brain,Op. 2,Voluson E6,1,0
+Patient00946_Plane6_1_of_2,946,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient00946_Plane6_2_of_2,946,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient00950_Plane3_1_of_5,950,Fetal brain,Trans-cerebellum,Op. 2,Voluson E6,1,3
+Patient00950_Plane3_2_of_5,950,Fetal brain,Trans-thalamic,Op. 2,Voluson E6,1,3
+Patient00950_Plane3_3_of_5,950,Fetal brain,Trans-thalamic,Op. 2,Voluson E6,1,3
+Patient00950_Plane3_4_of_5,950,Fetal brain,Trans-ventricular,Op. 2,Voluson E6,1,3
+Patient00950_Plane3_5_of_5,950,Fetal brain,Trans-cerebellum,Op. 2,Voluson E6,1,3
+Patient00950_Plane4_1_of_3,950,Maternal cervix,Not A Brain,Op. 2,Voluson E6,1,1
+Patient00950_Plane4_2_of_3,950,Maternal cervix,Not A Brain,Op. 2,Voluson E6,1,1
+Patient00950_Plane4_3_of_3,950,Maternal cervix,Not A Brain,Op. 2,Voluson E6,1,1
+Patient00950_Plane5_1_of_2,950,Fetal femur,Not A Brain,Op. 2,Voluson E6,1,4
+Patient00950_Plane5_2_of_2,950,Fetal femur,Not A Brain,Op. 2,Voluson E6,1,4
+Patient00950_Plane1_1_of_1,950,Other,Not A Brain,Op. 2,Voluson E6,1,0
+Patient00950_Plane6_1_of_2,950,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient00950_Plane6_2_of_2,950,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient00956_Plane2_1_of_1,956,Fetal abdomen,Not A Brain,Op. 3,Aloka,1,2
+Patient00956_Plane3_1_of_3,956,Fetal brain,Trans-thalamic,Op. 3,Aloka,1,3
+Patient00956_Plane3_2_of_3,956,Fetal brain,Trans-ventricular,Op. 3,Aloka,1,3
+Patient00956_Plane3_3_of_3,956,Fetal brain,Trans-ventricular,Op. 3,Aloka,1,3
+Patient00956_Plane5_1_of_1,956,Fetal femur,Not A Brain,Op. 3,Aloka,1,4
+Patient00956_Plane1_1_of_1,956,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient00956_Plane6_1_of_1,956,Fetal thorax,Not A Brain,Op. 3,Aloka,1,5
+Patient00957_Plane3_1_of_3,957,Fetal brain,Trans-thalamic,Op. 3,Aloka,1,3
+Patient00957_Plane3_2_of_3,957,Fetal brain,Trans-thalamic,Op. 3,Aloka,1,3
+Patient00957_Plane3_3_of_3,957,Fetal brain,Trans-cerebellum,Op. 3,Aloka,1,3
+Patient00958_Plane2_1_of_1,958,Fetal abdomen,Not A Brain,Op. 1,Voluson E6,1,2
+Patient00958_Plane3_1_of_6,958,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient00958_Plane3_2_of_6,958,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient00958_Plane3_3_of_6,958,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient00958_Plane3_4_of_6,958,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient00958_Plane3_5_of_6,958,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient00958_Plane3_6_of_6,958,Fetal brain,Trans-cerebellum,Op. 1,Voluson E6,1,3
+Patient00958_Plane5_1_of_1,958,Fetal femur,Not A Brain,Op. 1,Voluson E6,1,4
+Patient00958_Plane6_1_of_2,958,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00958_Plane6_2_of_2,958,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00959_Plane2_1_of_1,959,Fetal abdomen,Not A Brain,Op. 1,Voluson E6,1,2
+Patient00959_Plane3_1_of_4,959,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient00959_Plane3_2_of_4,959,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient00959_Plane3_3_of_4,959,Fetal brain,Trans-cerebellum,Op. 1,Voluson E6,1,3
+Patient00959_Plane3_4_of_4,959,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient00959_Plane5_1_of_1,959,Fetal femur,Not A Brain,Op. 1,Voluson E6,1,4
+Patient00959_Plane6_1_of_3,959,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00959_Plane6_2_of_3,959,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00959_Plane6_3_of_3,959,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00966_Plane3_1_of_2,966,Fetal brain,Trans-thalamic,Op. 2,Voluson E6,1,3
+Patient00966_Plane3_2_of_2,966,Fetal brain,Trans-cerebellum,Op. 2,Voluson E6,1,3
+Patient00969_Plane3_1_of_4,969,Fetal brain,Trans-cerebellum,Op. 2,Voluson E6,1,3
+Patient00969_Plane3_2_of_4,969,Fetal brain,Trans-thalamic,Op. 2,Voluson E6,1,3
+Patient00969_Plane3_3_of_4,969,Fetal brain,Trans-thalamic,Op. 2,Voluson E6,1,3
+Patient00969_Plane3_4_of_4,969,Fetal brain,Trans-thalamic,Op. 2,Voluson E6,1,3
+Patient00969_Plane4_1_of_4,969,Maternal cervix,Not A Brain,Op. 2,Voluson E6,1,1
+Patient00969_Plane4_2_of_4,969,Maternal cervix,Not A Brain,Op. 2,Voluson E6,1,1
+Patient00969_Plane4_3_of_4,969,Maternal cervix,Not A Brain,Op. 2,Voluson E6,1,1
+Patient00969_Plane4_4_of_4,969,Maternal cervix,Not A Brain,Op. 2,Voluson E6,1,1
+Patient00969_Plane5_1_of_1,969,Fetal femur,Not A Brain,Op. 2,Voluson E6,1,4
+Patient00969_Plane6_1_of_1,969,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient00970_Plane2_1_of_1,970,Fetal abdomen,Not A Brain,Op. 1,Voluson E6,1,2
+Patient00970_Plane3_1_of_4,970,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient00970_Plane3_2_of_4,970,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient00970_Plane3_3_of_4,970,Fetal brain,Trans-ventricular,Op. 1,Voluson E6,1,3
+Patient00970_Plane3_4_of_4,970,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient00970_Plane4_1_of_4,970,Maternal cervix,Not A Brain,Op. 1,Voluson E6,1,1
+Patient00970_Plane4_2_of_4,970,Maternal cervix,Not A Brain,Op. 1,Voluson E6,1,1
+Patient00970_Plane4_3_of_4,970,Maternal cervix,Not A Brain,Op. 1,Voluson E6,1,1
+Patient00970_Plane4_4_of_4,970,Maternal cervix,Not A Brain,Op. 1,Voluson E6,1,1
+Patient00970_Plane5_1_of_2,970,Fetal femur,Not A Brain,Op. 1,Voluson E6,1,4
+Patient00970_Plane5_2_of_2,970,Fetal femur,Not A Brain,Op. 1,Voluson E6,1,4
+Patient00970_Plane1_1_of_1,970,Other,Not A Brain,Op. 1,Voluson E6,1,0
+Patient00970_Plane6_1_of_1,970,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient00971_Plane2_1_of_1,971,Fetal abdomen,Not A Brain,Op. 2,Voluson E6,1,2
+Patient00971_Plane3_1_of_2,971,Fetal brain,Trans-ventricular,Op. 2,Voluson E6,1,3
+Patient00971_Plane3_2_of_2,971,Fetal brain,Trans-cerebellum,Op. 2,Voluson E6,1,3
+Patient00971_Plane4_1_of_2,971,Maternal cervix,Not A Brain,Op. 2,Voluson E6,1,1
+Patient00971_Plane4_2_of_2,971,Maternal cervix,Not A Brain,Op. 2,Voluson E6,1,1
+Patient00971_Plane1_1_of_1,971,Other,Not A Brain,Op. 2,Voluson E6,1,0
+Patient00971_Plane6_1_of_2,971,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient00971_Plane6_2_of_2,971,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient00973_Plane2_1_of_1,973,Fetal abdomen,Not A Brain,Op. 3,Aloka,1,2
+Patient00973_Plane3_1_of_2,973,Fetal brain,Trans-thalamic,Op. 3,Aloka,1,3
+Patient00973_Plane3_2_of_2,973,Fetal brain,Trans-thalamic,Op. 3,Aloka,1,3
+Patient00973_Plane5_1_of_1,973,Fetal femur,Not A Brain,Op. 3,Aloka,1,4
+Patient00977_Plane2_1_of_1,977,Fetal abdomen,Not A Brain,Op. 2,Voluson E6,1,2
+Patient00977_Plane3_1_of_4,977,Fetal brain,Trans-thalamic,Op. 2,Voluson E6,1,3
+Patient00977_Plane3_2_of_4,977,Fetal brain,Trans-thalamic,Op. 2,Voluson E6,1,3
+Patient00977_Plane3_3_of_4,977,Fetal brain,Trans-cerebellum,Op. 2,Voluson E6,1,3
+Patient00977_Plane3_4_of_4,977,Fetal brain,Trans-thalamic,Op. 2,Voluson E6,1,3
+Patient00977_Plane6_1_of_3,977,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient00977_Plane6_2_of_3,977,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient00977_Plane6_3_of_3,977,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient00979_Plane3_1_of_2,979,Fetal brain,Trans-thalamic,Op. 2,Voluson E6,1,3
+Patient00979_Plane3_2_of_2,979,Fetal brain,Trans-thalamic,Op. 2,Voluson E6,1,3
+Patient00979_Plane6_1_of_1,979,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient00984_Plane3_1_of_8,984,Fetal brain,Trans-thalamic,Op. 2,Voluson E6,1,3
+Patient00984_Plane3_2_of_8,984,Fetal brain,Trans-thalamic,Op. 2,Voluson E6,1,3
+Patient00984_Plane3_3_of_8,984,Fetal brain,Trans-cerebellum,Op. 2,Voluson E6,1,3
+Patient00984_Plane3_4_of_8,984,Fetal brain,Trans-thalamic,Op. 2,Voluson E6,1,3
+Patient00984_Plane3_5_of_8,984,Fetal brain,Other,Op. 2,Voluson E6,1,3
+Patient00984_Plane3_6_of_8,984,Fetal brain,Other,Op. 2,Voluson E6,1,3
+Patient00984_Plane3_7_of_8,984,Fetal brain,Other,Op. 2,Voluson E6,1,3
+Patient00984_Plane3_8_of_8,984,Fetal brain,Trans-thalamic,Op. 2,Voluson E6,1,3
+Patient00984_Plane6_1_of_2,984,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient00984_Plane6_2_of_2,984,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient00987_Plane3_1_of_3,987,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient00987_Plane3_2_of_3,987,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient00987_Plane3_3_of_3,987,Fetal brain,Trans-cerebellum,Op. 1,Voluson E6,1,3
+Patient00990_Plane3_1_of_3,990,Fetal brain,Trans-thalamic,Op. 2,Voluson E6,1,3
+Patient00990_Plane3_2_of_3,990,Fetal brain,Trans-thalamic,Op. 2,Voluson E6,1,3
+Patient00990_Plane3_3_of_3,990,Fetal brain,Trans-cerebellum,Op. 2,Voluson E6,1,3
+Patient00990_Plane6_1_of_2,990,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient00990_Plane6_2_of_2,990,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient01005_Plane2_1_of_2,1005,Fetal abdomen,Not A Brain,Op. 1,Voluson E6,1,2
+Patient01005_Plane2_2_of_2,1005,Fetal abdomen,Not A Brain,Op. 1,Voluson E6,1,2
+Patient01005_Plane3_1_of_2,1005,Fetal brain,Trans-cerebellum,Op. 1,Voluson E6,1,3
+Patient01005_Plane3_2_of_2,1005,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient01005_Plane4_1_of_3,1005,Maternal cervix,Not A Brain,Op. 1,Voluson E6,1,1
+Patient01005_Plane4_2_of_3,1005,Maternal cervix,Not A Brain,Op. 1,Voluson E6,1,1
+Patient01005_Plane4_3_of_3,1005,Maternal cervix,Not A Brain,Op. 1,Voluson E6,1,1
+Patient01005_Plane5_1_of_1,1005,Fetal femur,Not A Brain,Op. 1,Voluson E6,1,4
+Patient01005_Plane1_1_of_1,1005,Other,Not A Brain,Op. 1,Voluson E6,1,0
+Patient01005_Plane6_1_of_2,1005,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient01005_Plane6_2_of_2,1005,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient01008_Plane3_1_of_2,1008,Fetal brain,Trans-thalamic,Op. 3,Aloka,1,3
+Patient01008_Plane3_2_of_2,1008,Fetal brain,Trans-cerebellum,Op. 3,Aloka,1,3
+Patient01008_Plane5_1_of_1,1008,Fetal femur,Not A Brain,Op. 3,Aloka,1,4
+Patient01008_Plane6_1_of_1,1008,Fetal thorax,Not A Brain,Op. 3,Aloka,1,5
+Patient01010_Plane2_1_of_1,1010,Fetal abdomen,Not A Brain,Op. 3,Aloka,1,2
+Patient01010_Plane3_1_of_3,1010,Fetal brain,Trans-cerebellum,Op. 3,Aloka,1,3
+Patient01010_Plane3_2_of_3,1010,Fetal brain,Trans-thalamic,Op. 3,Aloka,1,3
+Patient01010_Plane3_3_of_3,1010,Fetal brain,Trans-thalamic,Op. 3,Aloka,1,3
+Patient01010_Plane4_1_of_5,1010,Maternal cervix,Not A Brain,Op. 3,Aloka,1,1
+Patient01010_Plane4_2_of_5,1010,Maternal cervix,Not A Brain,Op. 3,Aloka,1,1
+Patient01010_Plane4_3_of_5,1010,Maternal cervix,Not A Brain,Op. 3,Aloka,1,1
+Patient01010_Plane4_4_of_5,1010,Maternal cervix,Not A Brain,Op. 3,Aloka,1,1
+Patient01010_Plane4_5_of_5,1010,Maternal cervix,Not A Brain,Op. 3,Aloka,1,1
+Patient01010_Plane5_1_of_1,1010,Fetal femur,Not A Brain,Op. 3,Aloka,1,4
+Patient01010_Plane1_1_of_1,1010,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient01010_Plane6_1_of_1,1010,Fetal thorax,Not A Brain,Op. 3,Aloka,1,5
+Patient01013_Plane2_1_of_1,1013,Fetal abdomen,Not A Brain,Op. 3,Aloka,1,2
+Patient01013_Plane3_1_of_4,1013,Fetal brain,Trans-ventricular,Op. 3,Aloka,1,3
+Patient01013_Plane3_2_of_4,1013,Fetal brain,Trans-thalamic,Op. 3,Aloka,1,3
+Patient01013_Plane3_3_of_4,1013,Fetal brain,Trans-cerebellum,Op. 3,Aloka,1,3
+Patient01013_Plane3_4_of_4,1013,Fetal brain,Other,Op. 3,Aloka,1,3
+Patient01013_Plane5_1_of_1,1013,Fetal femur,Not A Brain,Op. 3,Aloka,1,4
+Patient01014_Plane2_1_of_1,1014,Fetal abdomen,Not A Brain,Op. 1,Voluson E6,1,2
+Patient01014_Plane3_1_of_3,1014,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient01014_Plane3_2_of_3,1014,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient01014_Plane3_3_of_3,1014,Fetal brain,Trans-cerebellum,Op. 1,Voluson E6,1,3
+Patient01014_Plane5_1_of_1,1014,Fetal femur,Not A Brain,Op. 1,Voluson E6,1,4
+Patient01014_Plane6_1_of_2,1014,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient01014_Plane6_2_of_2,1014,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient01016_Plane2_1_of_2,1016,Fetal abdomen,Not A Brain,Other,Other,1,2
+Patient01016_Plane2_2_of_2,1016,Fetal abdomen,Not A Brain,Other,Other,1,2
+Patient01016_Plane3_1_of_4,1016,Fetal brain,Trans-ventricular,Other,Other,1,3
+Patient01016_Plane3_2_of_4,1016,Fetal brain,Trans-thalamic,Other,Other,1,3
+Patient01016_Plane3_3_of_4,1016,Fetal brain,Trans-ventricular,Other,Other,1,3
+Patient01016_Plane3_4_of_4,1016,Fetal brain,Trans-thalamic,Other,Other,1,3
+Patient01016_Plane4_1_of_1,1016,Maternal cervix,Not A Brain,Other,Other,1,1
+Patient01016_Plane6_1_of_1,1016,Fetal thorax,Not A Brain,Other,Other,1,5
+Patient01022_Plane2_1_of_1,1022,Fetal abdomen,Not A Brain,Op. 1,Voluson E6,1,2
+Patient01022_Plane3_1_of_5,1022,Fetal brain,Other,Op. 1,Voluson E6,1,3
+Patient01022_Plane3_2_of_5,1022,Fetal brain,Trans-ventricular,Op. 1,Voluson E6,1,3
+Patient01022_Plane3_3_of_5,1022,Fetal brain,Trans-cerebellum,Op. 1,Voluson E6,1,3
+Patient01022_Plane3_4_of_5,1022,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient01022_Plane3_5_of_5,1022,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient01022_Plane4_1_of_2,1022,Maternal cervix,Not A Brain,Op. 1,Voluson E6,1,1
+Patient01022_Plane4_2_of_2,1022,Maternal cervix,Not A Brain,Op. 1,Voluson E6,1,1
+Patient01022_Plane5_1_of_2,1022,Fetal femur,Not A Brain,Op. 1,Voluson E6,1,4
+Patient01022_Plane5_2_of_2,1022,Fetal femur,Not A Brain,Op. 1,Voluson E6,1,4
+Patient01022_Plane1_1_of_1,1022,Other,Not A Brain,Op. 1,Voluson E6,1,0
+Patient01022_Plane6_1_of_1,1022,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient01031_Plane2_1_of_2,1031,Fetal abdomen,Not A Brain,Op. 3,Aloka,1,2
+Patient01031_Plane2_2_of_2,1031,Fetal abdomen,Not A Brain,Op. 3,Aloka,1,2
+Patient01031_Plane3_1_of_3,1031,Fetal brain,Trans-ventricular,Op. 3,Aloka,1,3
+Patient01031_Plane3_2_of_3,1031,Fetal brain,Trans-thalamic,Op. 3,Aloka,1,3
+Patient01031_Plane3_3_of_3,1031,Fetal brain,Trans-thalamic,Op. 3,Aloka,1,3
+Patient01031_Plane5_1_of_1,1031,Fetal femur,Not A Brain,Op. 3,Aloka,1,4
+Patient01031_Plane1_1_of_3,1031,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient01031_Plane6_1_of_1,1031,Fetal thorax,Not A Brain,Op. 3,Aloka,1,5
+Patient01031_Plane1_2_of_3,1031,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient01031_Plane1_3_of_3,1031,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient01035_Plane2_1_of_1,1035,Fetal abdomen,Not A Brain,Op. 3,Aloka,1,2
+Patient01035_Plane3_1_of_1,1035,Fetal brain,Trans-thalamic,Op. 3,Aloka,1,3
+Patient01035_Plane5_1_of_4,1035,Fetal femur,Not A Brain,Op. 3,Aloka,1,4
+Patient01035_Plane5_2_of_4,1035,Fetal femur,Not A Brain,Op. 3,Aloka,1,4
+Patient01035_Plane5_3_of_4,1035,Fetal femur,Not A Brain,Op. 3,Aloka,1,4
+Patient01035_Plane5_4_of_4,1035,Fetal femur,Not A Brain,Op. 3,Aloka,1,4
+Patient01035_Plane1_1_of_1,1035,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient01035_Plane6_1_of_2,1035,Fetal thorax,Not A Brain,Op. 3,Aloka,1,5
+Patient01035_Plane6_2_of_2,1035,Fetal thorax,Not A Brain,Op. 3,Aloka,1,5
+Patient01038_Plane2_1_of_1,1038,Fetal abdomen,Not A Brain,Op. 1,Voluson E6,1,2
+Patient01038_Plane3_1_of_1,1038,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient01038_Plane6_1_of_1,1038,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient01039_Plane1_1_of_1,1039,Other,Not A Brain,Op. 2,Voluson E6,1,0
+Patient01039_Plane6_1_of_2,1039,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient01039_Plane6_2_of_2,1039,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient01040_Plane3_1_of_2,1040,Fetal brain,Trans-cerebellum,Op. 2,Voluson E6,1,3
+Patient01040_Plane3_2_of_2,1040,Fetal brain,Trans-cerebellum,Op. 2,Voluson E6,1,3
+Patient01040_Plane6_1_of_4,1040,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient01040_Plane6_2_of_4,1040,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient01040_Plane6_3_of_4,1040,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient01040_Plane6_4_of_4,1040,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient01050_Plane2_1_of_1,1050,Fetal abdomen,Not A Brain,Op. 3,Aloka,1,2
+Patient01050_Plane3_1_of_2,1050,Fetal brain,Trans-ventricular,Op. 3,Aloka,1,3
+Patient01050_Plane3_2_of_2,1050,Fetal brain,Trans-thalamic,Op. 3,Aloka,1,3
+Patient01050_Plane4_1_of_5,1050,Maternal cervix,Not A Brain,Op. 3,Aloka,1,1
+Patient01050_Plane4_2_of_5,1050,Maternal cervix,Not A Brain,Op. 3,Aloka,1,1
+Patient01050_Plane4_3_of_5,1050,Maternal cervix,Not A Brain,Op. 3,Aloka,1,1
+Patient01050_Plane4_4_of_5,1050,Maternal cervix,Not A Brain,Op. 3,Aloka,1,1
+Patient01050_Plane4_5_of_5,1050,Maternal cervix,Not A Brain,Op. 3,Aloka,1,1
+Patient01050_Plane5_1_of_2,1050,Fetal femur,Not A Brain,Op. 3,Aloka,1,4
+Patient01050_Plane5_2_of_2,1050,Fetal femur,Not A Brain,Op. 3,Aloka,1,4
+Patient01050_Plane1_1_of_1,1050,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient01053_Plane3_1_of_2,1053,Fetal brain,Trans-ventricular,Op. 2,Voluson E6,1,3
+Patient01053_Plane3_2_of_2,1053,Fetal brain,Trans-cerebellum,Op. 2,Voluson E6,1,3
+Patient01053_Plane6_1_of_2,1053,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient01053_Plane6_2_of_2,1053,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient01066_Plane3_1_of_2,1066,Fetal brain,Trans-cerebellum,Op. 3,Aloka,1,3
+Patient01066_Plane3_2_of_2,1066,Fetal brain,Trans-cerebellum,Op. 3,Aloka,1,3
+Patient01066_Plane1_1_of_1,1066,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient01066_Plane6_1_of_2,1066,Fetal thorax,Not A Brain,Op. 3,Aloka,1,5
+Patient01066_Plane6_2_of_2,1066,Fetal thorax,Not A Brain,Op. 3,Aloka,1,5
+Patient01067_Plane3_1_of_2,1067,Fetal brain,Trans-ventricular,Op. 2,Voluson E6,1,3
+Patient01067_Plane3_2_of_2,1067,Fetal brain,Trans-cerebellum,Op. 2,Voluson E6,1,3
+Patient01067_Plane5_1_of_1,1067,Fetal femur,Not A Brain,Op. 2,Voluson E6,1,4
+Patient01067_Plane6_1_of_2,1067,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient01067_Plane6_2_of_2,1067,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient01090_Plane3_1_of_2,1090,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient01090_Plane3_2_of_2,1090,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient01090_Plane6_1_of_1,1090,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient01094_Plane3_1_of_2,1094,Fetal brain,Trans-thalamic,Op. 3,Aloka,1,3
+Patient01094_Plane3_2_of_2,1094,Fetal brain,Trans-ventricular,Op. 3,Aloka,1,3
+Patient01094_Plane5_1_of_4,1094,Fetal femur,Not A Brain,Op. 3,Aloka,1,4
+Patient01094_Plane5_2_of_4,1094,Fetal femur,Not A Brain,Op. 3,Aloka,1,4
+Patient01094_Plane5_3_of_4,1094,Fetal femur,Not A Brain,Op. 3,Aloka,1,4
+Patient01094_Plane5_4_of_4,1094,Fetal femur,Not A Brain,Op. 3,Aloka,1,4
+Patient01094_Plane1_1_of_1,1094,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient01094_Plane6_1_of_2,1094,Fetal thorax,Not A Brain,Op. 3,Aloka,1,5
+Patient01094_Plane6_2_of_2,1094,Fetal thorax,Not A Brain,Op. 3,Aloka,1,5
+Patient01096_Plane2_1_of_2,1096,Fetal abdomen,Not A Brain,Op. 1,Voluson E6,1,2
+Patient01096_Plane2_2_of_2,1096,Fetal abdomen,Not A Brain,Op. 1,Voluson E6,1,2
+Patient01096_Plane3_1_of_6,1096,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient01096_Plane3_2_of_6,1096,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient01096_Plane3_3_of_6,1096,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient01096_Plane3_4_of_6,1096,Fetal brain,Trans-cerebellum,Op. 1,Voluson E6,1,3
+Patient01096_Plane3_5_of_6,1096,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient01096_Plane3_6_of_6,1096,Fetal brain,Trans-cerebellum,Op. 1,Voluson E6,1,3
+Patient01096_Plane5_1_of_1,1096,Fetal femur,Not A Brain,Op. 1,Voluson E6,1,4
+Patient01096_Plane6_1_of_1,1096,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient01097_Plane3_1_of_2,1097,Fetal brain,Trans-thalamic,Op. 2,Voluson E6,1,3
+Patient01097_Plane3_2_of_2,1097,Fetal brain,Other,Op. 2,Voluson E6,1,3
+Patient01099_Plane4_1_of_1,1099,Maternal cervix,Not A Brain,Other,Other,1,1
+Patient01112_Plane2_1_of_1,1112,Fetal abdomen,Not A Brain,Op. 3,Aloka,1,2
+Patient01112_Plane3_1_of_3,1112,Fetal brain,Trans-thalamic,Op. 3,Aloka,1,3
+Patient01112_Plane3_2_of_3,1112,Fetal brain,Trans-thalamic,Op. 3,Aloka,1,3
+Patient01112_Plane3_3_of_3,1112,Fetal brain,Trans-thalamic,Op. 3,Aloka,1,3
+Patient01112_Plane4_1_of_5,1112,Maternal cervix,Not A Brain,Op. 3,Aloka,1,1
+Patient01112_Plane4_2_of_5,1112,Maternal cervix,Not A Brain,Op. 3,Aloka,1,1
+Patient01112_Plane4_3_of_5,1112,Maternal cervix,Not A Brain,Op. 3,Aloka,1,1
+Patient01112_Plane4_4_of_5,1112,Maternal cervix,Not A Brain,Op. 3,Aloka,1,1
+Patient01112_Plane4_5_of_5,1112,Maternal cervix,Not A Brain,Op. 3,Aloka,1,1
+Patient01112_Plane5_1_of_2,1112,Fetal femur,Not A Brain,Op. 3,Aloka,1,4
+Patient01112_Plane5_2_of_2,1112,Fetal femur,Not A Brain,Op. 3,Aloka,1,4
+Patient01112_Plane1_1_of_1,1112,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient01112_Plane6_1_of_2,1112,Fetal thorax,Not A Brain,Op. 3,Aloka,1,5
+Patient01112_Plane6_2_of_2,1112,Fetal thorax,Not A Brain,Op. 3,Aloka,1,5
+Patient01114_Plane2_1_of_1,1114,Fetal abdomen,Not A Brain,Op. 3,Aloka,1,2
+Patient01114_Plane3_1_of_2,1114,Fetal brain,Trans-thalamic,Op. 3,Aloka,1,3
+Patient01114_Plane3_2_of_2,1114,Fetal brain,Trans-cerebellum,Op. 3,Aloka,1,3
+Patient01114_Plane5_1_of_2,1114,Fetal femur,Not A Brain,Op. 3,Aloka,1,4
+Patient01114_Plane5_2_of_2,1114,Fetal femur,Not A Brain,Op. 3,Aloka,1,4
+Patient01114_Plane1_1_of_1,1114,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient01114_Plane6_1_of_2,1114,Fetal thorax,Not A Brain,Op. 3,Aloka,1,5
+Patient01114_Plane6_2_of_2,1114,Fetal thorax,Not A Brain,Op. 3,Aloka,1,5
+Patient01121_Plane3_1_of_2,1121,Fetal brain,Trans-ventricular,Op. 2,Voluson E6,1,3
+Patient01121_Plane3_2_of_2,1121,Fetal brain,Trans-ventricular,Op. 2,Voluson E6,1,3
+Patient01121_Plane6_1_of_1,1121,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient01125_Plane3_1_of_2,1125,Fetal brain,Trans-thalamic,Op. 2,Voluson E6,1,3
+Patient01125_Plane3_2_of_2,1125,Fetal brain,Trans-thalamic,Op. 2,Voluson E6,1,3
+Patient01137_Plane2_1_of_2,1137,Fetal abdomen,Not A Brain,Op. 2,Voluson E6,1,2
+Patient01137_Plane2_2_of_2,1137,Fetal abdomen,Not A Brain,Op. 2,Voluson E6,1,2
+Patient01137_Plane3_1_of_8,1137,Fetal brain,Trans-thalamic,Op. 2,Voluson E6,1,3
+Patient01137_Plane3_2_of_8,1137,Fetal brain,Trans-cerebellum,Op. 2,Voluson E6,1,3
+Patient01137_Plane3_3_of_8,1137,Fetal brain,Trans-thalamic,Op. 2,Voluson E6,1,3
+Patient01137_Plane3_4_of_8,1137,Fetal brain,Trans-thalamic,Op. 2,Voluson E6,1,3
+Patient01137_Plane3_5_of_8,1137,Fetal brain,Trans-thalamic,Op. 2,Voluson E6,1,3
+Patient01137_Plane3_6_of_8,1137,Fetal brain,Trans-thalamic,Op. 2,Voluson E6,1,3
+Patient01137_Plane3_7_of_8,1137,Fetal brain,Trans-ventricular,Op. 2,Voluson E6,1,3
+Patient01137_Plane3_8_of_8,1137,Fetal brain,Trans-thalamic,Op. 2,Voluson E6,1,3
+Patient01137_Plane4_1_of_6,1137,Maternal cervix,Not A Brain,Op. 2,Voluson E6,1,1
+Patient01137_Plane4_2_of_6,1137,Maternal cervix,Not A Brain,Op. 2,Voluson E6,1,1
+Patient01137_Plane4_3_of_6,1137,Maternal cervix,Not A Brain,Op. 2,Voluson E6,1,1
+Patient01137_Plane4_4_of_6,1137,Maternal cervix,Not A Brain,Op. 2,Voluson E6,1,1
+Patient01137_Plane4_5_of_6,1137,Maternal cervix,Not A Brain,Op. 2,Voluson E6,1,1
+Patient01137_Plane4_6_of_6,1137,Maternal cervix,Not A Brain,Op. 2,Voluson E6,1,1
+Patient01137_Plane5_1_of_2,1137,Fetal femur,Not A Brain,Op. 2,Voluson E6,1,4
+Patient01137_Plane5_2_of_2,1137,Fetal femur,Not A Brain,Op. 2,Voluson E6,1,4
+Patient01137_Plane1_1_of_1,1137,Other,Not A Brain,Op. 2,Voluson E6,1,0
+Patient01137_Plane6_1_of_5,1137,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient01137_Plane6_2_of_5,1137,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient01137_Plane6_3_of_5,1137,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient01137_Plane6_4_of_5,1137,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient01137_Plane6_5_of_5,1137,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient01141_Plane2_1_of_2,1141,Fetal abdomen,Not A Brain,Op. 3,Aloka,1,2
+Patient01141_Plane2_2_of_2,1141,Fetal abdomen,Not A Brain,Op. 3,Aloka,1,2
+Patient01141_Plane3_1_of_3,1141,Fetal brain,Trans-thalamic,Op. 3,Aloka,1,3
+Patient01141_Plane3_2_of_3,1141,Fetal brain,Other,Op. 3,Aloka,1,3
+Patient01141_Plane3_3_of_3,1141,Fetal brain,Trans-thalamic,Op. 3,Aloka,1,3
+Patient01141_Plane5_1_of_1,1141,Fetal femur,Not A Brain,Op. 3,Aloka,1,4
+Patient01143_Plane3_1_of_2,1143,Fetal brain,Trans-thalamic,Op. 2,Voluson E6,1,3
+Patient01143_Plane3_2_of_2,1143,Fetal brain,Trans-cerebellum,Op. 2,Voluson E6,1,3
+Patient01152_Plane3_1_of_3,1152,Fetal brain,Trans-ventricular,Op. 2,Voluson E6,1,3
+Patient01152_Plane3_2_of_3,1152,Fetal brain,Trans-ventricular,Op. 2,Voluson E6,1,3
+Patient01152_Plane3_3_of_3,1152,Fetal brain,Trans-cerebellum,Op. 2,Voluson E6,1,3
+Patient01157_Plane2_1_of_1,1157,Fetal abdomen,Not A Brain,Op. 1,Voluson E6,1,2
+Patient01157_Plane3_1_of_2,1157,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient01157_Plane3_2_of_2,1157,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient01157_Plane4_1_of_3,1157,Maternal cervix,Not A Brain,Op. 1,Voluson E6,1,1
+Patient01157_Plane4_2_of_3,1157,Maternal cervix,Not A Brain,Op. 1,Voluson E6,1,1
+Patient01157_Plane4_3_of_3,1157,Maternal cervix,Not A Brain,Op. 1,Voluson E6,1,1
+Patient01157_Plane5_1_of_1,1157,Fetal femur,Not A Brain,Op. 1,Voluson E6,1,4
+Patient01157_Plane6_1_of_1,1157,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient01158_Plane2_1_of_1,1158,Fetal abdomen,Not A Brain,Op. 1,Voluson E6,1,2
+Patient01158_Plane3_1_of_5,1158,Fetal brain,Trans-thalamic,Op. 2,Voluson E6,1,3
+Patient01158_Plane3_2_of_5,1158,Fetal brain,Trans-thalamic,Op. 2,Voluson E6,1,3
+Patient01158_Plane3_3_of_5,1158,Fetal brain,Trans-thalamic,Op. 2,Voluson E6,1,3
+Patient01158_Plane3_4_of_5,1158,Fetal brain,Other,Op. 2,Voluson E6,1,3
+Patient01158_Plane3_5_of_5,1158,Fetal brain,Trans-thalamic,Op. 2,Voluson E6,1,3
+Patient01158_Plane6_1_of_1,1158,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient01170_Plane3_1_of_3,1170,Fetal brain,Trans-thalamic,Op. 2,Voluson E6,1,3
+Patient01170_Plane3_2_of_3,1170,Fetal brain,Trans-ventricular,Op. 2,Voluson E6,1,3
+Patient01170_Plane3_3_of_3,1170,Fetal brain,Trans-cerebellum,Op. 2,Voluson E6,1,3
+Patient01170_Plane4_1_of_2,1170,Maternal cervix,Not A Brain,Op. 2,Voluson E6,1,1
+Patient01170_Plane4_2_of_2,1170,Maternal cervix,Not A Brain,Op. 2,Voluson E6,1,1
+Patient01170_Plane5_1_of_1,1170,Fetal femur,Not A Brain,Op. 2,Voluson E6,1,4
+Patient01170_Plane1_1_of_1,1170,Other,Not A Brain,Op. 2,Voluson E6,1,0
+Patient01170_Plane6_1_of_1,1170,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient01179_Plane2_1_of_1,1179,Fetal abdomen,Not A Brain,Op. 1,Voluson E6,1,2
+Patient01179_Plane3_1_of_3,1179,Fetal brain,Trans-cerebellum,Op. 1,Voluson E6,1,3
+Patient01179_Plane3_2_of_3,1179,Fetal brain,Trans-ventricular,Op. 1,Voluson E6,1,3
+Patient01179_Plane3_3_of_3,1179,Fetal brain,Trans-ventricular,Op. 1,Voluson E6,1,3
+Patient01179_Plane4_1_of_3,1179,Maternal cervix,Not A Brain,Op. 1,Voluson E6,1,1
+Patient01179_Plane4_2_of_3,1179,Maternal cervix,Not A Brain,Op. 1,Voluson E6,1,1
+Patient01179_Plane4_3_of_3,1179,Maternal cervix,Not A Brain,Op. 1,Voluson E6,1,1
+Patient01179_Plane5_1_of_2,1179,Fetal femur,Not A Brain,Op. 1,Voluson E6,1,4
+Patient01179_Plane5_2_of_2,1179,Fetal femur,Not A Brain,Op. 1,Voluson E6,1,4
+Patient01179_Plane1_1_of_1,1179,Other,Not A Brain,Op. 1,Voluson E6,1,0
+Patient01179_Plane6_1_of_1,1179,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient01185_Plane3_1_of_3,1185,Fetal brain,Trans-thalamic,Op. 3,Aloka,1,3
+Patient01185_Plane3_2_of_3,1185,Fetal brain,Trans-ventricular,Op. 3,Aloka,1,3
+Patient01185_Plane3_3_of_3,1185,Fetal brain,Trans-cerebellum,Op. 3,Aloka,1,3
+Patient01185_Plane5_1_of_1,1185,Fetal femur,Not A Brain,Op. 3,Aloka,1,4
+Patient01185_Plane1_1_of_15,1185,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient01185_Plane1_2_of_15,1185,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient01185_Plane1_3_of_15,1185,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient01185_Plane1_4_of_15,1185,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient01185_Plane1_5_of_15,1185,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient01185_Plane1_6_of_15,1185,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient01185_Plane1_7_of_15,1185,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient01185_Plane1_8_of_15,1185,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient01185_Plane1_9_of_15,1185,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient01185_Plane1_10_of_15,1185,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient01185_Plane1_11_of_15,1185,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient01185_Plane1_12_of_15,1185,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient01185_Plane1_13_of_15,1185,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient01185_Plane1_14_of_15,1185,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient01185_Plane1_15_of_15,1185,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient01188_Plane3_1_of_2,1188,Fetal brain,Trans-ventricular,Op. 3,Aloka,1,3
+Patient01188_Plane3_2_of_2,1188,Fetal brain,Trans-thalamic,Op. 3,Aloka,1,3
+Patient01188_Plane4_1_of_1,1188,Maternal cervix,Not A Brain,Op. 3,Aloka,1,1
+Patient01188_Plane5_1_of_1,1188,Fetal femur,Not A Brain,Op. 3,Aloka,1,4
+Patient01188_Plane1_1_of_2,1188,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient01188_Plane1_2_of_2,1188,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient01192_Plane2_1_of_1,1192,Fetal abdomen,Not A Brain,Op. 1,Voluson E6,1,2
+Patient01192_Plane3_1_of_1,1192,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient01192_Plane5_1_of_1,1192,Fetal femur,Not A Brain,Op. 1,Voluson E6,1,4
+Patient01192_Plane6_1_of_1,1192,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5
+Patient01199_Plane3_1_of_2,1199,Fetal brain,Trans-thalamic,Op. 3,Aloka,1,3
+Patient01199_Plane3_2_of_2,1199,Fetal brain,Trans-cerebellum,Op. 3,Aloka,1,3
+Patient01199_Plane5_1_of_2,1199,Fetal femur,Not A Brain,Op. 3,Aloka,1,4
+Patient01199_Plane5_2_of_2,1199,Fetal femur,Not A Brain,Op. 3,Aloka,1,4
+Patient01199_Plane1_1_of_11,1199,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient01199_Plane1_2_of_11,1199,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient01199_Plane1_3_of_11,1199,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient01199_Plane1_4_of_11,1199,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient01199_Plane1_5_of_11,1199,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient01199_Plane1_6_of_11,1199,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient01199_Plane1_7_of_11,1199,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient01199_Plane1_8_of_11,1199,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient01199_Plane1_9_of_11,1199,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient01199_Plane1_10_of_11,1199,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient01199_Plane1_11_of_11,1199,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient01201_Plane2_1_of_1,1201,Fetal abdomen,Not A Brain,Op. 3,Aloka,1,2
+Patient01201_Plane3_1_of_1,1201,Fetal brain,Trans-ventricular,Op. 3,Aloka,1,3
+Patient01201_Plane6_1_of_1,1201,Fetal thorax,Not A Brain,Op. 3,Aloka,1,5
+Patient01201_Plane1_1_of_1,1201,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient01202_Plane2_1_of_1,1202,Fetal abdomen,Not A Brain,Op. 2,Voluson E6,1,2
+Patient01202_Plane3_1_of_7,1202,Fetal brain,Trans-thalamic,Op. 2,Voluson E6,1,3
+Patient01202_Plane3_2_of_7,1202,Fetal brain,Trans-ventricular,Op. 2,Voluson E6,1,3
+Patient01202_Plane3_3_of_7,1202,Fetal brain,Trans-cerebellum,Op. 2,Voluson E6,1,3
+Patient01202_Plane3_4_of_7,1202,Fetal brain,Trans-cerebellum,Op. 2,Voluson E6,1,3
+Patient01202_Plane3_5_of_7,1202,Fetal brain,Trans-cerebellum,Op. 2,Voluson E6,1,3
+Patient01202_Plane3_6_of_7,1202,Fetal brain,Trans-ventricular,Op. 2,Voluson E6,1,3
+Patient01202_Plane3_7_of_7,1202,Fetal brain,Trans-thalamic,Op. 2,Voluson E6,1,3
+Patient01202_Plane4_1_of_1,1202,Maternal cervix,Not A Brain,Op. 2,Voluson E6,1,1
+Patient01202_Plane5_1_of_2,1202,Fetal femur,Not A Brain,Op. 2,Voluson E6,1,4
+Patient01202_Plane5_2_of_2,1202,Fetal femur,Not A Brain,Op. 2,Voluson E6,1,4
+Patient01202_Plane6_1_of_1,1202,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient01203_Plane3_1_of_3,1203,Fetal brain,Trans-thalamic,Op. 2,Voluson E6,1,3
+Patient01203_Plane3_2_of_3,1203,Fetal brain,Trans-cerebellum,Op. 2,Voluson E6,1,3
+Patient01203_Plane3_3_of_3,1203,Fetal brain,Trans-thalamic,Op. 2,Voluson E6,1,3
+Patient01203_Plane6_1_of_2,1203,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient01203_Plane6_2_of_2,1203,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient01209_Plane3_1_of_7,1209,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient01209_Plane3_2_of_7,1209,Fetal brain,Trans-cerebellum,Op. 1,Voluson E6,1,3
+Patient01209_Plane3_3_of_7,1209,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient01209_Plane3_4_of_7,1209,Fetal brain,Trans-ventricular,Op. 1,Voluson E6,1,3
+Patient01209_Plane3_5_of_7,1209,Fetal brain,Other,Op. 1,Voluson E6,1,3
+Patient01209_Plane3_6_of_7,1209,Fetal brain,Trans-ventricular,Op. 1,Voluson E6,1,3
+Patient01209_Plane3_7_of_7,1209,Fetal brain,Trans-cerebellum,Op. 1,Voluson E6,1,3
+Patient01209_Plane4_1_of_1,1209,Maternal cervix,Not A Brain,Op. 1,Voluson E6,1,1
+Patient01209_Plane5_1_of_3,1209,Fetal femur,Not A Brain,Op. 1,Voluson E6,1,4
+Patient01209_Plane5_2_of_3,1209,Fetal femur,Not A Brain,Op. 1,Voluson E6,1,4
+Patient01209_Plane5_3_of_3,1209,Fetal femur,Not A Brain,Op. 1,Voluson E6,1,4
+Patient01209_Plane1_1_of_1,1209,Other,Not A Brain,Op. 1,Voluson E6,1,0
+Patient01214_Plane5_1_of_1,1214,Fetal femur,Not A Brain,Op. 2,Voluson E6,1,4
+Patient01214_Plane1_1_of_1,1214,Other,Not A Brain,Op. 2,Voluson E6,1,0
+Patient01221_Plane3_1_of_1,1221,Fetal brain,Trans-thalamic,Op. 3,Aloka,1,3
+Patient01221_Plane5_1_of_2,1221,Fetal femur,Not A Brain,Op. 3,Aloka,1,4
+Patient01221_Plane5_2_of_2,1221,Fetal femur,Not A Brain,Op. 3,Aloka,1,4
+Patient01221_Plane1_1_of_9,1221,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient01221_Plane1_2_of_9,1221,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient01221_Plane1_3_of_9,1221,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient01221_Plane1_4_of_9,1221,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient01221_Plane1_5_of_9,1221,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient01221_Plane1_6_of_9,1221,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient01221_Plane1_7_of_9,1221,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient01221_Plane1_8_of_9,1221,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient01221_Plane1_9_of_9,1221,Other,Not A Brain,Op. 3,Aloka,1,0
+Patient01222_Plane2_1_of_3,1222,Fetal abdomen,Not A Brain,Op. 2,Voluson E6,1,2
+Patient01222_Plane2_2_of_3,1222,Fetal abdomen,Not A Brain,Op. 2,Voluson E6,1,2
+Patient01222_Plane2_3_of_3,1222,Fetal abdomen,Not A Brain,Op. 2,Voluson E6,1,2
+Patient01222_Plane3_1_of_8,1222,Fetal brain,Trans-thalamic,Op. 2,Voluson E6,1,3
+Patient01222_Plane3_2_of_8,1222,Fetal brain,Trans-cerebellum,Op. 2,Voluson E6,1,3
+Patient01222_Plane3_3_of_8,1222,Fetal brain,Trans-ventricular,Op. 2,Voluson E6,1,3
+Patient01222_Plane3_4_of_8,1222,Fetal brain,Trans-ventricular,Op. 2,Voluson E6,1,3
+Patient01222_Plane3_5_of_8,1222,Fetal brain,Trans-cerebellum,Op. 2,Voluson E6,1,3
+Patient01222_Plane3_6_of_8,1222,Fetal brain,Trans-cerebellum,Op. 2,Voluson E6,1,3
+Patient01222_Plane3_7_of_8,1222,Fetal brain,Trans-cerebellum,Op. 2,Voluson E6,1,3
+Patient01222_Plane3_8_of_8,1222,Fetal brain,Trans-cerebellum,Op. 2,Voluson E6,1,3
+Patient01222_Plane4_1_of_3,1222,Maternal cervix,Not A Brain,Op. 2,Voluson E6,1,1
+Patient01222_Plane4_2_of_3,1222,Maternal cervix,Not A Brain,Op. 2,Voluson E6,1,1
+Patient01222_Plane4_3_of_3,1222,Maternal cervix,Not A Brain,Op. 2,Voluson E6,1,1
+Patient01222_Plane1_1_of_1,1222,Other,Not A Brain,Op. 2,Voluson E6,1,0
+Patient01222_Plane6_1_of_1,1222,Fetal thorax,Not A Brain,Op. 2,Voluson E6,1,5
+Patient01226_Plane2_1_of_1,1226,Fetal abdomen,Not A Brain,Op. 1,Voluson E6,1,2
+Patient01226_Plane3_1_of_1,1226,Fetal brain,Trans-thalamic,Op. 1,Voluson E6,1,3
+Patient01226_Plane6_1_of_1,1226,Fetal thorax,Not A Brain,Op. 1,Voluson E6,1,5

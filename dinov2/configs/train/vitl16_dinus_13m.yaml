@@ -1,0 +1,18 @@
+train:
+  dataset_path: FUS13M:split=TRAIN
+  batch_size_per_gpu: 128  # 128 * 2 = 256 effective batch size
+  OFFICIAL_EPOCH_LENGTH: 40000 # 40000*50 iterations with batch size 256 -> 512M samples
+  accum_iter: 2  # Effective batch size is 2*128 = 256
+
+optim:
+  epochs: 50 # 50 epochs for 40000 iterations with batch size 512 -> 512M samples
+
+student:
+  arch: vit_large
+  patch_size: 16
+  block_chunks: 0
+  in_chans: 1
+  num_register_tokens: 4
+
+evaluation:
+  eval_period_iterations: 50000

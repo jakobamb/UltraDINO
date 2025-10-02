@@ -1,0 +1,63 @@
+# local config for debugging
+defaults:
+  - datasets: fetal_planes_barcelona.yaml
+  - from_scratch@pt_conf: vits16_from_scratch.yaml
+  - _self_
+
+hydra:
+  searchpath:
+    - ${oc.env:PROJECT_DIR}/dinov2/configs # NOTE: Replace with your pretraining output dir of the version you are using
+  run:
+    dir: ${oc.env:EXPERIMENTS_DIR}/vits16_from_scratch/20241126-000000-56542/classification/${datasets.dataset_name}/${experiment.name}/${now:%Y-%m-%d}/${now:%H-%M-%S}
+
+data:
+  in_chans: 1
+  img_size: 224
+  # Mixup parameters
+  mixup: 0.8
+  cutmix: 1.0
+  label_smoothing: 0.1
+  normalization: "fus"
+
+
+model:
+  backbone: dino
+  num_classes: 6
+  global_pool: False
+  linear_probe: False
+  drop_path: 0.0
+  layer_wise_lr_decay: 1.0
+  pretrained_weights: null
+
+
+experiment:
+  name: from_scratch_fetal_planes_barcelona
+  seed: 42
+
+training:
+  epochs: 200
+  learning_rate: 0.0001  # (base_lr (3e-4) * batch_size (256) * num_gpus (1)) / 256
+  batch_size: 128
+  num_workers: 8
+  check_val_every_n_epoch: 1
+  overfit_batches: 0  # Use all data
+  lp_learning_rates: [1e-5, 2e-5, 5e-5, 1e-4, 2e-4, 5e-4, 1e-3, 2e-3, 5e-3, 1e-2, 2e-2, 5e-2, 0.1]
+  output_dir: 
+  
+optimizer:
+  beta1: 0.9
+  beta2: 0.999
+  weight_decay: 0.0
+
+scheduler:
+  warmup_epochs: 5
+
+compute:
+  accelerator: gpu
+  devices: 1
+
+test:
+  best_linear_classifier : null
+  checkpoint_path: null
+  batch_size: 128
+  num_workers: 8

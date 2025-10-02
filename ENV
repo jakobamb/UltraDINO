@@ -1,0 +1,5 @@
+# Set these environment variables, e.g. in a .env file:
+export PRETRAIN_DATA=/path/to/pretrain/data
+export DOWNSTREAM_DATA=/path/to/downstream/data
+export EXPERIMENTS_DIR=/path/to/experiments/output
+export PROJECT_DIR=/path/to/dino/project/dir

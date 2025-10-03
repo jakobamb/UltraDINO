@@ -2,6 +2,8 @@
 
 This repository contains the code to reproduce experiments of the MICCAI 2025 paper "General methods make great domain-specific foundation models". The codebase is largely based on DINOv2, with minor modifications to pretraining (Greyscale inputs, tensorboard logging), and new finetuning implementations for classification and segmentation.
 
+Paper Link: [ArXiv](https://arxiv.org/abs/2506.19552) | [papers.miccai.org](https://papers.miccai.org/miccai-2025/0370-Paper4487.html)
+
 ## Installation
 
 * Dependencies: Python 3.11
